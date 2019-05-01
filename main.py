@@ -73,11 +73,27 @@ def dropbox():
 			return True
 	return False
 
+def duolingo():
+	url = "https://www.duolingo.com/jobs_list"
+	res = grabSite(url)
+	page = bs4.BeautifulSoup(res.text, 'lxml')
+	return str(page).count("2020") > 0
+
+def spacex():
+	url = "https://www.spacex.com/careers/list?field_job_category_tid%5B%5D=966&type%5B%5D=37"
+	res = grabSite(url)
+	page = bs4.BeautifulSoup(res.text, 'lxml')
+	return len(page.select(CSS)) > 0
+		
+
 COMPANY_LIST = []
 
 COMPANY_LIST.append({'company': 'airbnb', 'function': airbnb})
 COMPANY_LIST.append({'company': 'akuna', 'function': akuna})
 COMPANY_LIST.append({'company': 'dropbox', 'function': dropbox})
+COMPANY_LIST.append({'company': 'duolingo', 'function': duolingo})
+COMPANY_LIST.append({'company': 'spacex', 'function': spacex})
+
 
 def do_all():
 	for company in COMPANY_LIST:
