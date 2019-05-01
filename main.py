@@ -105,6 +105,12 @@ def stripe():
 	page = bs4.BeautifulSoup(res.text, 'lxml')
 	#print(str(page).count("intern"))
 	return str(page).count("intern") != 1008
+
+def uber():
+	url = "https://www.uber.com/careers/list/?city=all&country=all&keywords=&subteam=all&team=university&iisc=Website&iisn=Website&iis=University-Careers-Page"
+	res = grabSite(url)
+	page = bs4.BeautifulSoup(res.text, 'lxml')
+	return len(page.select(".flush--bottom")) > 30
 		
 
 COMPANY_LIST = []
@@ -117,6 +123,7 @@ COMPANY_LIST.append({'company': 'spacex', 'function': spacex})
 COMPANY_LIST.append({'company': 'slack', 'function': slack})
 COMPANY_LIST.append({'company': 'nextdoor', 'function': nextdoor})
 COMPANY_LIST.append({'company': 'stripe', 'function': stripe})
+COMPANY_LIST.append({'company': 'uber', 'function': uber})
 
 
 def do_all():
