@@ -84,6 +84,20 @@ def spacex():
 	res = grabSite(url)
 	page = bs4.BeautifulSoup(res.text, 'lxml')
 	return len(page.select(".views-field-title")) > 0
+
+def slack():
+	url = "https://slack.com/careers/university-recruiting"
+	res = grabSite(url)
+	page = bs4.BeautifulSoup(res.text, 'lxml')
+	#print str(page).count("2020")
+	return str(page).count("2020") > 0
+
+def nextdoor():
+	url = "https://boards.greenhouse.io/embed/job_board?for=nextdoor&b=https%3A%2F%2Fnextdoor.com%2Fjobs%2F"
+	res = grabSite(url)
+	page = bs4.BeautifulSoup(res.text, 'lxml')
+	#print str(page).count("2019")
+	return str(page).count("2020") > 0
 		
 
 COMPANY_LIST = []
@@ -93,6 +107,7 @@ COMPANY_LIST.append({'company': 'akuna', 'function': akuna})
 COMPANY_LIST.append({'company': 'dropbox', 'function': dropbox})
 COMPANY_LIST.append({'company': 'duolingo', 'function': duolingo})
 COMPANY_LIST.append({'company': 'spacex', 'function': spacex})
+COMPANY_LIST.append({'company': 'slack', 'function': slack})
 
 
 def do_all():
