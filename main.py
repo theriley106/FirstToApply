@@ -55,9 +55,16 @@ def airbnb():
 	page = bs4.BeautifulSoup(res.text, 'lxml')
 	return str(page).count("2020") > 0
 
+def akuna():
+	url = "https://akunacapital.com/wp-admin/admin-ajax.php?action=gh_ajax_request&experience=Intern&department=&location="
+	res = grabSite(url).json()
+	print(len(res['matched_jobs']))
+	return len(res['matched_jobs']) != 14
+
 COMPANY_LIST = []
 
 COMPANY_LIST.append({'company': 'airbnb', 'function': airbnb})
+COMPANY_LIST.append({'company': 'akuna', 'function': akuna})
 
 def do_all():
 	for company in COMPANY_LIST:
