@@ -98,6 +98,13 @@ def nextdoor():
 	page = bs4.BeautifulSoup(res.text, 'lxml')
 	#print str(page).count("2019")
 	return str(page).count("2020") > 0
+
+def stripe():
+	url = "https://stripe.com/jobs/search?s=intern"
+	res = grabSite(url)
+	page = bs4.BeautifulSoup(res.text, 'lxml')
+	#print(str(page).count("intern"))
+	return str(page).count("intern") != 1008
 		
 
 COMPANY_LIST = []
@@ -109,6 +116,7 @@ COMPANY_LIST.append({'company': 'duolingo', 'function': duolingo})
 COMPANY_LIST.append({'company': 'spacex', 'function': spacex})
 COMPANY_LIST.append({'company': 'slack', 'function': slack})
 COMPANY_LIST.append({'company': 'nextdoor', 'function': nextdoor})
+COMPANY_LIST.append({'company': 'stripe', 'function': stripe})
 
 
 def do_all():
