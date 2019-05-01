@@ -11,18 +11,19 @@ def extract_from_reddit(idVal="9nb0vb"):
 	res = requests.get(url)
 	#print res.json()
 
-import praw
+def extract_all_comments(postID='914rhn'):
+	commentList = []
+	reddit = praw.Reddit(
+		client_id=REDDIT_ID,
+		client_secret=REDDIT_CLIENT_SECRET,
+		user_agent='internship search')
 
-reddit = praw.Reddit(
-	client_id=REDDIT_ID,
-	client_secret=REDDIT_CLIENT_SECRET,
-	user_agent='internship search')
+	submission = reddit.submission(id=)
 
-submission = reddit.submission(id='914rhn')
-
-submission.comments.replace_more(limit=None)
-comment_queue = submission.comments[:]  # Seed with top-level
-while comment_queue:
-	comment = comment_queue.pop(0)
-	print(comment.body)
-	comment_queue.extend(comment.replies)
+	submission.comments.replace_more(limit=None)
+	comment_queue = submission.comments[:]  # Seed with top-level
+	while comment_queue:
+		comment = comment_queue.pop(0)
+		commentList.append(comment.body)
+		comment_queue.extend(comment.replies)
+	return commentList
