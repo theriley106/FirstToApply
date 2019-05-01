@@ -55,8 +55,14 @@ def airbnb():
 	page = bs4.BeautifulSoup(res.text, 'lxml')
 	return str(page).count("2020") > 0
 
+COMPANY_LIST = []
+
+COMPANY_LIST.append({'company': 'airbnb', 'function': airbnb})
+
 def do_all():
-	print(airbnb())
+	for company in COMPANY_LIST:
+		if company['function']():
+			print("{} IS OPEN".format(company['company']))
 
 
 if __name__ == '__main__':
