@@ -111,6 +111,14 @@ def uber():
 	res = grabSite(url)
 	page = bs4.BeautifulSoup(res.text, 'lxml')
 	return len(page.select(".flush--bottom")) > 30
+
+def yext():
+	#print("Checking Yext")
+	url = "https://boards.greenhouse.io/yext"
+	res = grabSite(url)
+	page = bs4.BeautifulSoup(res.text, 'lxml')
+	#print str(page).count("2019")
+	return str(page).count("2020") > 0
 		
 
 COMPANY_LIST = []
@@ -124,6 +132,8 @@ COMPANY_LIST.append({'company': 'slack', 'function': slack})
 COMPANY_LIST.append({'company': 'nextdoor', 'function': nextdoor})
 COMPANY_LIST.append({'company': 'stripe', 'function': stripe})
 COMPANY_LIST.append({'company': 'uber', 'function': uber})
+COMPANY_LIST.append({'company': 'yext', 'function': yext})
+
 
 
 def do_all():
