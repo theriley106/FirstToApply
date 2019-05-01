@@ -83,7 +83,7 @@ def spacex():
 	url = "https://www.spacex.com/careers/list?field_job_category_tid%5B%5D=966&type%5B%5D=37"
 	res = grabSite(url)
 	page = bs4.BeautifulSoup(res.text, 'lxml')
-	return len(page.select(CSS)) > 0
+	return len(page.select(".views-field-title")) > 0
 		
 
 COMPANY_LIST = []
