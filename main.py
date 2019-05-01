@@ -58,13 +58,26 @@ def airbnb():
 def akuna():
 	url = "https://akunacapital.com/wp-admin/admin-ajax.php?action=gh_ajax_request&experience=Intern&department=&location="
 	res = grabSite(url).json()
-	print(len(res['matched_jobs']))
+	#print(len(res['matched_jobs']))
 	return len(res['matched_jobs']) != 14
+
+def dropbox():
+	url = "https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions"
+	res = grabSite(url)
+	page = bs4.BeautifulSoup(res.text, 'lxml')
+	#print len(page.select(CSS))
+	if len(page.select(".open-positions__listing")) != 1:
+		return True
+	if len(page.select(".open-positions__listing")) > 0:
+		if 'summer' not in str(page.select(".open-positions__listing")[0]).lower():
+			return True
+	return False
 
 COMPANY_LIST = []
 
 COMPANY_LIST.append({'company': 'airbnb', 'function': airbnb})
 COMPANY_LIST.append({'company': 'akuna', 'function': akuna})
+COMPANY_LIST.append({'company': 'dropbox', 'function': dropbox})
 
 def do_all():
 	for company in COMPANY_LIST:
