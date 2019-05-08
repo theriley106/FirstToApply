@@ -40,5 +40,11 @@
         "2020": 0,
         "intern": 14,
         "url": "https://nextdoor.com/jobs/"
+    },
+    {
+        "company": "stripe",
+        "2020": 0,
+        "intern": 1083,
+        "url": "https://stripe.com/jobs/search?s=intern"
     }
 ]
