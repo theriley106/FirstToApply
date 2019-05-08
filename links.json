@@ -40,5 +40,11 @@
         "2020": 0,
         "intern": 60,
         "url": "https://www.squarespace.com/careers/university"
+    },
+    {
+        "company": "lyft",
+        "2020": 1,
+        "intern": 30,
+        "url": "https://www.lyft.com/careers/university"
     }
 ]

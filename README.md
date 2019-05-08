@@ -11,3 +11,5 @@ I would rather have 10x companies that take a long time to scan rather than 1 co
 ### Companies
 
 [Squarespace](https://www.squarespace.com/careers/university)
+
+[Lyft](https://www.lyft.com/careers/university)
