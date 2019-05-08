@@ -46,5 +46,11 @@
         "2020": 0,
         "intern": 1083,
         "url": "https://stripe.com/jobs/search?s=intern"
+    },
+    {
+        "company": "yext",
+        "2020": 0,
+        "intern": 245,
+        "url": "https://www.yext.com/careers/open-positions/"
     }
 ]

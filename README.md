@@ -25,3 +25,5 @@ I would rather have 10x companies that take a long time to scan rather than 1 co
 [Nextdoor](https://nextdoor.com/jobs/)
 
 [Stripe](https://stripe.com/jobs/search?s=intern)
+
+[Yext](https://www.yext.com/careers/open-positions/)
