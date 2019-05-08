@@ -21,3 +21,5 @@ I would rather have 10x companies that take a long time to scan rather than 1 co
 [Spacex](https://www.spacex.com/careers/list)
 
 [Slack](https://slack.com/careers/university-recruiting#openings)
+
+[Nextdoor](https://nextdoor.com/jobs/)
