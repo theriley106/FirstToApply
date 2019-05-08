@@ -1,1 +1,44 @@
-[{"company": "dropbox", "2020": 2, "intern": 24, "url": "https://www.dropbox.com/jobs/teams/eng_university_grads"}, {"company": "spacex", "2020": 0, "intern": 2, "url": "https://www.spacex.com/careers/list"}, {"company": "tesla", "2020": 0, "intern": 412, "url": "https://www.tesla.com/careers/search#/?keyword=intern"}, {"company": "belvedere trading", "2020": 1, "intern": 67, "url": "http://www.belvederetrading.com/internships"}]
+[
+    {
+        "company": "dropbox",
+        "2020": 2,
+        "intern": 24,
+        "url": "https://www.dropbox.com/jobs/teams/eng_university_grads"
+    },
+    {
+        "company": "spacex",
+        "2020": 0,
+        "intern": 2,
+        "url": "https://www.spacex.com/careers/list"
+    },
+    {
+        "company": "tesla",
+        "2020": 0,
+        "intern": 412,
+        "url": "https://www.tesla.com/careers/search#/?keyword=intern"
+    },
+    {
+        "company": "belvedere trading",
+        "2020": 1,
+        "intern": 67,
+        "url": "http://www.belvederetrading.com/internships"
+    },
+    {
+        "company": "uber",
+        "2020": 0,
+        "intern": 33,
+        "url": "https://www.uber.com/us/en/careers/list/?city=all&country=all&keywords=&subteam=all&team=university&iisc=Website&iisn=Website&iis=University-Careers-Page"
+    },
+    {
+        "company": "uber",
+        "2020": 0,
+        "intern": 26,
+        "url": "https://www.uber.com/us/en/careers/list/?city=all&country=all&keywords=&subteam=all&team=university&iisc=Website&iisn=Website&iis=University-Careers-Page"
+    },
+    {
+        "company": "squarespace",
+        "2020": 0,
+        "intern": 60,
+        "url": "https://www.squarespace.com/careers/university"
+    }
+]
