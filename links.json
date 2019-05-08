@@ -16,5 +16,11 @@
         "2020": 2,
         "intern": 24,
         "url": "https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions"
+    },
+    {
+        "company": "duolingo",
+        "2020": 0,
+        "intern": 2,
+        "url": "https://www.duolingo.com/jobs"
     }
 ]
