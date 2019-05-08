@@ -28,5 +28,11 @@
         "2020": 0,
         "intern": 2,
         "url": "https://www.spacex.com/careers/list"
+    },
+    {
+        "company": "slack",
+        "2020": 1,
+        "intern": 49,
+        "url": "https://slack.com/careers/university-recruiting#openings"
     }
 ]
