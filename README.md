@@ -37,3 +37,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Imc Trading](https://www.imc.com/eu/careers)
 
 [Twitch](https://jobs.lever.co/twitch)
+
+[Affirm](https://www.affirm.com/openings/)
