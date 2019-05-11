@@ -1,3 +1,8 @@
+import sys
+
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 from selenium import webdriver
 import json
 
@@ -29,7 +34,7 @@ if __name__ == '__main__':
 		click_first_link()
 		input("Press enter when done")
 		print("2020 Count: {}".format(str(driver.page_source).count('2020')))
-		print("Intern Count: {}".format(str(driver.page_source).count('intern')))
+		print("Intern Count: {}".format(str(driver.page_source).lower().count('intern')))
 		info = {}
 		info['company'] = company
 		info['2020'] = str(driver.page_source).count('2020')
