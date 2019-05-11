@@ -28,7 +28,7 @@ if __name__ == '__main__':
 		search(company + " internships")
 		click_first_link()
 		input("Press enter when done")
-		print("2020 Count: {}".format())
+		print("2020 Count: {}".format(str(driver.page_source).count('2020')))
 		print("Intern Count: {}".format(str(driver.page_source).count('intern')))
 		info = {}
 		info['company'] = company
