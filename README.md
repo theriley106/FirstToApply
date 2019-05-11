@@ -39,3 +39,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Twitch](https://jobs.lever.co/twitch)
 
 [Affirm](https://www.affirm.com/openings/)
+
+[Flexport](https://www.flexport.com/careers/department/engineering)
