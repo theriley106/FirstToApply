@@ -7,9 +7,9 @@ from selenium import webdriver
 import json
 
 try:
-    input = raw_input
+	input = raw_input
 except NameError:
-    pass
+	pass
 
 driver = webdriver.Firefox()
 
@@ -42,4 +42,6 @@ if __name__ == '__main__':
 		info['url'] = driver.current_url
 		db.append(info)
 		with open('links.json', 'w') as outfile:
-		    json.dump(db, outfile)
+			json.dump(db, outfile)
+		os.system("printf '\n\n[{}]({})' >> README.md".format(company.title(), info['url']))
+		os.system("git add README.md && git add links.json && git commit -m 'added {} internship page'".format(info['company']))
