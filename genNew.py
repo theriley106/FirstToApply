@@ -1,7 +1,14 @@
 from selenium import webdriver
 import json
 
+try:
+    input = raw_input
+except NameError:
+    pass
+
 driver = webdriver.Firefox()
+
+
 
 
 def search(searchTerm):
