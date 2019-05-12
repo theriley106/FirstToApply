@@ -43,3 +43,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Flexport](https://www.flexport.com/careers/department/engineering)
 
 [Lending Club](https://lendingclub.wd1.myworkdayjobs.com/External/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
+
+[De Shaw](https://www.deshaw.com/careers/internships)
