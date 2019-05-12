@@ -51,3 +51,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Etsy](https://www.etsy.com/careers#internships)
 
 [Buzzfeed](https://www.buzzfeed.com/about/jobs)
+
+[Atlassian](https://www.atlassian.com/company/careers/interns#intern-openings)
