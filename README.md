@@ -53,3 +53,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Buzzfeed](https://www.buzzfeed.com/about/jobs)
 
 [Atlassian](https://www.atlassian.com/company/careers/interns#intern-openings)
+
+[Lime](https://jobs.lever.co/limebike)
