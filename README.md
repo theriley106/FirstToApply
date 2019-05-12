@@ -49,3 +49,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Coinbase](https://www.coinbase.com/careers/positions)
 
 [Etsy](https://www.etsy.com/careers#internships)
+
+[Buzzfeed](https://www.buzzfeed.com/about/jobs)
