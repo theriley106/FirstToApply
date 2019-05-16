@@ -79,3 +79,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Bain](https://www.bain.com/careers/roles/aci/)
 
 [Flatiron Health](https://flatiron.com/careers/open-positions/)
+
+[Bird](https://jobs.lever.co/bird)
