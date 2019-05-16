@@ -57,3 +57,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Lime](https://jobs.lever.co/limebike)
 
 [Honey](https://www.joinhoney.com/careers/internships#jobSection)
+
+[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)
