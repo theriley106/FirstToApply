@@ -83,3 +83,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Bird](https://jobs.lever.co/bird)
 
 [Mongodb](https://www.mongodb.com/careers/departments/college-students)
+
+[Osisoft](https://osisoft.wd1.myworkdayjobs.com/osisoft_careers)
