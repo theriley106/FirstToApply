@@ -71,3 +71,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Twilio](https://www.twilio.com/company/jobs?department=students#open-positions)
 
 [Groupon](https://jobs.groupon.com/university)
+
+[Palantir](https://www.palantir.com/careers/)
