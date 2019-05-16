@@ -87,3 +87,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Osisoft](https://osisoft.wd1.myworkdayjobs.com/osisoft_careers)
 
 [Qualtrics](https://www.qualtrics.com/careers/students/?department=University+Students#explore)
+
+[Quantcast](https://www.quantcast.com/careers/openings/#department
