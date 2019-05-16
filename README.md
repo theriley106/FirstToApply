@@ -61,3 +61,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)
 
 [Buzzfeed](https://www.buzzfeed.com/about/jobs)
+
+[Etsy](https://www.etsy.com/careers#internships)
