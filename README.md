@@ -65,3 +65,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Etsy](https://www.etsy.com/careers#internships)
 
 [Box](https://www.box.com/careers/university)
+
+[Pandora](https://www.pandora.com/careers/universityrecruiting)
