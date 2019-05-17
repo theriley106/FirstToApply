@@ -1,3 +1,4 @@
+
 # FirstToApply
 Data/Tools to consistently be the first to apply to competitive internships
 
@@ -8,7 +9,7 @@ Data/Tools to consistently be the first to apply to competitive internships
 
 I tried to a make this project a balance of both quantity and reliability.  The effeciency was not really taken into account, and it was much faster from a development standpoint to do everything in Selenium vs. finding the API endpoints that each career page uses.
 
-As a result, this script takes a relatively long time to run, but I would much rather have 100 companies that take a long time to scan rather than 10 companies that can be scanned in a shorter period of time.  
+As a result, this script takes a relatively long time to run, but I would much rather have 100 companies that take a long time to scan rather than 10 companies that can be scanned in a shorter period of time.
 
 ### Companies
 
