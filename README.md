@@ -114,3 +114,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Transmarket Group](http://www.transmarketgroup.com/jobs/)
 
 [Ctc Llc](https://www.chicagotrading.com/search#search-results)
+
+[Virtu Financial](https://www.virtu.com/careers/)
