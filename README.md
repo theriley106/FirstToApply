@@ -106,3 +106,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Optiver](https://www.optiver.com/na/en/job-opportunities/Internship/all/Chicago/)
 
 [Flow Traders](https://www.flowtraders.com/careers/jobs/tech)
+
+[Group One Trading Lp](https://group1.applicantpro.com/jobs/)
