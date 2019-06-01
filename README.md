@@ -102,3 +102,5 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers)
 
 [Yelp](https://www.yelp.com/careers/job-openings?source=leader_button)
+
+[Optiver](https://www.optiver.com/na/en/job-opportunities/Internship/all/Chicago/)
