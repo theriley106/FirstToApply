@@ -3,11 +3,17 @@ import praw
 import re
 import json
 import bs4
+from selenium import webdriver
 try:
 	from keys import *
 except:
-	REDDIT_ID = input("REDDIT ID: ")
-	REDDIT_CLIENT_SECRET = input("REDDIT CLIENT SECRET: ")
+	REDDIT_ID = ""
+	REDDIT_CLIENT_SECRET = ""
+
+driver = webdriver.Firefox()
+
+def extract_companies():
+	return json.load(open("links.json"))
 
 def extract_from_reddit(idVal="9nb0vb"):
 	url = "https://api.pushshift.io/reddit/submission/comment_ids/{}".format(idVal)
@@ -119,7 +125,7 @@ def yext():
 	page = bs4.BeautifulSoup(res.text, 'lxml')
 	#print str(page).count("2019")
 	return str(page).count("2020") > 0
-		
+
 
 COMPANY_LIST = []
 
@@ -136,6 +142,19 @@ COMPANY_LIST.append({'company': 'yext', 'function': yext})
 
 
 
+def check_new(url, count1, count2, company):
+	#res = grabSite(url)
+	driver.get(url)
+	driver.save_screenshot("{}.png".format(company))
+	page = bs4.BeautifulSoup(driver.page_source, 'lxml')
+	if len(raw_input("Click to Continue")) > 0:
+		return True
+	else:
+		return False
+	return str(page).count("2020") > count1 or str(page).lower().count("intern")
+
+
+
 def do_all():
 	for company in COMPANY_LIST:
 		if company['function']():
@@ -143,7 +162,10 @@ def do_all():
 
 
 if __name__ == '__main__':
-	do_all()
+	#do_all()
+	for val in extract_companies():
+		if check_new(val['url'], val['2020'], val['intern'], val['company']):
+			print("{} IS OPEN".format(val['company']))
 	'''a = extract_all_comments()
 				with open('outputfile.json', 'w') as fout:
 					json.dump(a, fout, indent=4)'''
