@@ -1,4 +1,4 @@
-# FirstToApply
+# InternshipHunter
 Data/Tools to consistently be the first to apply to competitive internships
 
 http://www.transmarketgroup.com/jobs/
