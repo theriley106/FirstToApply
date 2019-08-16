@@ -5,74 +5,6 @@ http://www.transmarketgroup.com/jobs/
 
 https://careers-oldmissioncapital.icims.com/jobs/search?ss=1&hashed=-435708888&mobile=false&width=780&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240
 
-
-## Results
-
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continuey
-duolingo IS OPEN
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continuey
-yext IS OPEN
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continuey
-de shaw IS OPEN
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continuey
-citadel IS OPEN
-Click to Continue
-Click to Continueu
-etsy IS OPEN
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continuefweaf
-palantir IS OPEN
-Click to Continue
-Click to Continuey
-bain IS OPEN
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continued
-tumblr IS OPEN
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continuesfd
-group one trading lp IS OPEN
-Click to Continuedfs
-peak 6 IS OPEN
-Click to Continue
-Click to Continue
-Click to Continue
-Click to Continue
-
 ### FAQ
 
 ## Why is this so computationally intensive?
@@ -159,7 +91,7 @@ As a result, this script takes a relatively long time to run, but I would much r
 
 [Qualtrics](https://www.qualtrics.com/careers/students/?department=University+Students#explore)
 
-[Quantcast](https://www.quantcast.com/careers/openings/#department
+[Quantcast](https://www.quantcast.com/careers/openings/#department)
 
 [Quora](https://jobs.lever.co/quora)
 
