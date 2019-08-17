@@ -5,9 +5,9 @@ Data/Tools to consistently be the first to apply to competitive internships
 
 ## Why is this so computationally intensive?
 
-I tried to a make this project a balance of both quantity and reliability, and to be entirely honest the efficiency wasn't really taken into account.  Additionally, it was much faster from a development standpoint to do everything in Selenium vs. finding the API endpoints that each career page uses.
+I tried to a make this project a balance of both quantity and reliability, and to be entirely honest the efficiency wasn't really taken into account.  It was much faster from a development standpoint to do everything in Selenium vs. finding the API endpoints that each career page uses.
 
-As a result, this script takes a relatively long time to run, but the idea is that the user would much rather have 100 companies that take a long time to scan rather than 10 companies that can be scanned in a shorter period of time.  IMO when it comes to internship searching Quantity > Quality, and I think that applies to this script as well.
+As a result, this script takes a relatively long time to run, but the idea is that the user would much rather have 100 companies that take a long time to scan rather than 10 companies that can be scanned in a shorter period of time.  When it comes to internship searching Quantity > Quality, and I think that applies to this script as well.
 
 | ID | Company Name | Link | Intern[ship] Count | 2019 Count | Verification | Updated |
 | --------- | ------------- | --------------- | --------- | --------- | --------- | --------- |
