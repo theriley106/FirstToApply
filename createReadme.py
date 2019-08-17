@@ -4,7 +4,8 @@ import time
 
 readmeFile = open("template.md").read()
 companyList = open("companies.txt").read().split("\n")
-
+x = list(set(companyList))
+companyList = sorted([g.title() for g in x])
 os.system("touch newReadme.md && rm newReadme.md")
 
 row = '| {} | {} | {} | {} | {} | {} | {} |'
@@ -25,7 +26,7 @@ def get_verification_score(company):
 
 for i, company in enumerate(companyList):
 	if len(company) > 0:
-		idVal = str(i+1).zfill(4)
+		idVal = str(i+1001).zfill(4)
 		link = get_link(company)
 		internCount = get_count("intern")
 		yearCount = get_count("2019")
