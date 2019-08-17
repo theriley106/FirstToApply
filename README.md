@@ -2132,3 +2132,6 @@ As a result, this script takes a relatively long time to run, but I would much r
 [Virtu Financial](https://www.virtu.com/careers/)
 
 [Belvedere Trading](https://belvederetrading.applicantstack.com/x/openings)
+
+
+[Yext](https://www.yext.com/careers/)
