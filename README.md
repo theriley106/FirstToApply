@@ -3,6 +3,18 @@ Data/Tools to consistently be the first to apply to competitive internships
 
 ### FAQ
 
+### How to use
+
+``` {.sourceCode .bash}
+$ python ./fta 1004 1728 2441 1077
+Checking: 23&Me
+Checking: Google
+Checking: Robinhood
+Robinhood application has opened: https://careers.robinhood.com/openings
+Checking: AMD
+```
+
+
 ## Why is this so computationally intensive?
 
 I tried to a make this project a balance of both quantity and reliability, and to be entirely honest the efficiency wasn't really taken into account.  It was much faster from a development standpoint to do everything in Selenium vs. finding the API endpoints that each career page uses.
