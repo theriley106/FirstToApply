@@ -6,7 +6,7 @@ Data/Tools to consistently be the first to apply to competitive internships
 ### How to use
 
 ``` {.sourceCode .bash}
-$ python ./fta 1004 1728 2441 1077
+$ ./InternshipHunter 1004 1728 2441 1077
 Checking: 23&Me
 Checking: Google
 Checking: Robinhood
