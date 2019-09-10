@@ -12,5 +12,17 @@ COMPANIES = open("companies.txt").read().split("\n")
 
 '''
 if __name__ == '__main__':
+	companyData = {}
 	for val in COMPANIES:
-		print(val)
+		if len(val) > 0:
+			companyData[val] = {
+				"ss_size": 0,
+				"count_2019": 0,
+				"count_intern": 0
+			}
+
+	with open('data.json', 'w') as f:
+		json.dump(companyData, f, indent=4)
+
+
+
