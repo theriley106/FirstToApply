@@ -185,6 +185,12 @@ def update(companyCode):
 	info['url'] = driver.current_url
 	driver.save_screenshot('temp.png')
 	info['ss_size'] = os.path.getsize('temp.png')
+	if DB[companyCode].get("count_intern", 0) != info['count_intern']:
+		print("{} IS OPEN".format(company))
+	elif DB[companyCode].get("count_2019", 0) != info['count_2019']:
+		print("{} IS OPEN".format(company))
+	elif float(abs(DB[companyCode].get("ss_size", 0) - info['ss_size'])) / float(info['ss_size']) > .05:
+		print("{} IS OPEN".format(company))
 	DB[companyCode] = info
 	with open('db.json', 'w') as outfile:
 		json.dump(DB, outfile, indent=4)
