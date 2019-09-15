@@ -1,8 +1,14 @@
+# encoding=utf8
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 import requests
 import praw
 import re
 import json
 import bs4
+import os
 from selenium import webdriver
 try:
 	from keys import *
@@ -11,6 +17,8 @@ except:
 	REDDIT_CLIENT_SECRET = ""
 
 driver = webdriver.Firefox()
+
+DB = json.load(open("db.json"))
 
 def extract_companies():
 	return json.load(open("links.json"))
@@ -167,9 +175,25 @@ def click_first_link():
 	results = driver.find_elements_by_xpath('//div[@class="r"]/a/h3')  # finds webresults
 	results[0].click()
 
-
+def update(companyCode):
+	info = DB[companyCode]
+	company = info['companyName']
+	search(company + " internships")
+	info['count_intern'] = str(driver.page_source).count('intern')
+	# I know 2019 is not 2020...
+	info['count_2019'] = str(driver.page_source).count('2020')
+	info['url'] = driver.current_url
+	driver.save_screenshot('temp.png')
+	info['ss_size'] = os.path.getsize('temp.png')
+	DB[companyCode] = info
+	with open('db.json', 'w') as outfile:
+		json.dump(DB, outfile, indent=4)
+	print("Updated {}".format(company))
+	os.system("rm temp.png")
 
 if __name__ == '__main__':
+	while True:
+		update(raw_input("Company Code: "))
 	#do_all()
 	for val in extract_companies():
 		if check_new(val['url'], val['2020'], val['intern'], val['company']):
