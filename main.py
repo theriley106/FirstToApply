@@ -163,6 +163,9 @@ def do_all():
 def search(searchTerm):
 	driver.get("https://www.google.com/search?&q={}&btnI".format(searchTerm.replace(" ", "+")))
 
+def click_first_link():
+	results = driver.find_elements_by_xpath('//div[@class="r"]/a/h3')  # finds webresults
+	results[0].click()
 
 
 
