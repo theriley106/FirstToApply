@@ -181,6 +181,9 @@ def click_first_link():
 	results[0].click()
 
 def update(companyCode):
+	if companyCode not in DB:
+		print("{} DOES NOT EXIST".format(companyCode))
+		return
 	info = dict(DB[companyCode])
 	company = info['companyName']
 	search(company + " internships")
@@ -203,12 +206,17 @@ def update(companyCode):
 	os.system("rm temp.png")
 
 if __name__ == '__main__':
-	while True:
-		update(raw_input("Company Code: "))
-	#do_all()
-	for val in extract_companies():
-		if check_new(val['url'], val['2020'], val['intern'], val['company']):
-			print("{} IS OPEN".format(val['company']))
+	companies = sys.argv[1:]
+	if len(companies) == 0:
+		while True:
+			update(raw_input("Company Code: "))
+		#do_all()
+		for val in extract_companies():
+			if check_new(val['url'], val['2020'], val['intern'], val['company']):
+				print("{} IS OPEN".format(val['company']))
+	else:
+		for val in companies:
+			update(val)
 	'''a = extract_all_comments()
 				with open('outputfile.json', 'w') as fout:
 					json.dump(a, fout, indent=4)'''
