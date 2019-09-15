@@ -160,6 +160,11 @@ def do_all():
 		if company['function']():
 			print("{} IS OPEN".format(company['company']))
 
+def search(searchTerm):
+	driver.get("https://www.google.com/search?&q={}&btnI".format(searchTerm.replace(" ", "+")))
+
+
+
 
 if __name__ == '__main__':
 	#do_all()
