@@ -16,7 +16,12 @@ except:
 	REDDIT_ID = ""
 	REDDIT_CLIENT_SECRET = ""
 
-driver = webdriver.Firefox()
+from selenium.webdriver.firefox.options import Options
+
+options = Options()
+options.headless = True
+
+driver = webdriver.Firefox(options=options)
 
 DB = json.load(open("db.json"))
 
