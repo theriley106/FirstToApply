@@ -181,7 +181,7 @@ def click_first_link():
 	results[0].click()
 
 def update(companyCode):
-	info = DB[companyCode]
+	info = dict(DB[companyCode])
 	company = info['companyName']
 	search(company + " internships")
 	info['count_intern'] = str(driver.page_source).count('intern')
@@ -190,11 +190,11 @@ def update(companyCode):
 	info['url'] = driver.current_url
 	driver.save_screenshot('temp.png')
 	info['ss_size'] = os.path.getsize('temp.png')
-	if DB[companyCode].get("count_intern", 0) != info['count_intern']:
+	if DB[companyCode].get("count_intern", "O") != info['count_intern']:
 		print("{} IS OPEN".format(company))
-	elif DB[companyCode].get("count_2019", 0) != info['count_2019']:
+	elif DB[companyCode].get("count_2019", "O") != info['count_2019']:
 		print("{} IS OPEN".format(company))
-	elif float(abs(DB[companyCode].get("ss_size", 0) - info['ss_size'])) / float(info['ss_size']) > .05:
+	elif float(abs(DB[companyCode].get("ss_size", -500) - info['ss_size'])) / float(info['ss_size']) > .05:
 		print("{} IS OPEN".format(company))
 	DB[companyCode] = info
 	with open('db.json', 'w') as outfile:
