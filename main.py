@@ -210,7 +210,6 @@ if __name__ == '__main__':
 	if len(companies) == 0:
 		while True:
 			update(raw_input("Company Code: "))
-		#do_all()
 		for val in extract_companies():
 			if check_new(val['url'], val['2020'], val['intern'], val['company']):
 				print("{} IS OPEN".format(val['company']))
