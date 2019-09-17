@@ -217,8 +217,3 @@ if __name__ == '__main__':
 	else:
 		for val in companies:
 			update(val)
-	'''a = extract_all_comments()
-				with open('outputfile.json', 'w') as fout:
-					json.dump(a, fout, indent=4)'''
-	#for val in extract_urls('comments2.txt'):
-	#	print(val)
