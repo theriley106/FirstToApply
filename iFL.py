@@ -13,9 +13,6 @@ except NameError:
 
 driver = webdriver.Firefox()
 
-
-
-
 def search(searchTerm):
 	driver.get("https://www.google.com/search?&q={}&btnI".format(searchTerm.replace(" ", "+")))
 
