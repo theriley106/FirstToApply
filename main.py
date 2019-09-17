@@ -177,7 +177,7 @@ def search(searchTerm):
 	driver.get("https://www.google.com/search?&q={}&btnI".format(searchTerm.replace(" ", "+")))
 
 def click_first_link():
-	results = driver.find_elements_by_xpath('//div[@class="r"]/a/h3')  # finds webresults
+	results = driver.find_elements_by_xpath('//div[@class="r"]/a/h3')
 	results[0].click()
 
 def update(companyCode):
@@ -188,7 +188,6 @@ def update(companyCode):
 	company = info['companyName']
 	search(company + " internships")
 	info['count_intern'] = str(driver.page_source).count('intern')
-	# I know 2019 is not 2020...
 	info['count_2019'] = str(driver.page_source).count('2020')
 	info['url'] = driver.current_url
 	driver.save_screenshot('temp.png')
