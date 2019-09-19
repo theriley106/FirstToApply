@@ -5,9 +5,7 @@ Data/Tools to consistently be the first to apply to competitive internships
 
 Using discrepancy in screenshot size
 
-### FAQ
-
-### How to use
+## How to use
 
 ``` {.sourceCode .bash}
 $ ./InternshipHunter 1004 1728 2441 1077
@@ -17,6 +15,8 @@ Checking: Robinhood
 Robinhood application has opened: https://careers.robinhood.com/openings
 Checking: AMD
 ```
+
+## Supported Companies
 
 | ID | Company Name | Link | Intern[ship] Count | 2019 Count | Verification | Updated |
 | --------- | ------------- | --------------- | --------- | --------- | --------- | --------- |
