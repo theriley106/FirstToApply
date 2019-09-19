@@ -2140,5 +2140,4 @@ Checking: AMD
 
 [Belvedere Trading](https://belvederetrading.applicantstack.com/x/openings)
 
-
 [Yext](https://www.yext.com/careers/)
