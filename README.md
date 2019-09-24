@@ -1,6 +1,10 @@
 # InternshipHunter
 Data/Tools to consistently be the first to apply to competitive internships
 
+## Ideas
+
+Using discrepancy in screenshot size
+
 ## How to use
 
 ``` {.sourceCode .bash}
