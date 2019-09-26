@@ -21,6 +21,5 @@ def update_company(companyId):
 		with open('filename.md','w') as f:
 			f.write( '\n'.join(allLines) )
 
-
 if __name__ == '__main__':
 	update_company("3010")
