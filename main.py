@@ -166,8 +166,6 @@ def check_new(url, count1, count2, company):
 		return False
 	return str(page).count("2020") > count1 or str(page).lower().count("intern")
 
-
-
 def do_all():
 	for company in COMPANY_LIST:
 		if company['function']():
