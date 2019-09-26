@@ -2,7 +2,6 @@
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
-
 import requests
 import praw
 import re
