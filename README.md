@@ -15,7 +15,7 @@ Checking: AMD
 ## Supported Companies
 
 | ID | Company Name | Link | Intern[ship] Count | 2019 Count | Verification | Updated |
-| --------- | ----------- | ------------- | ------- | ------- | ------- | ------- |
+| --------- | ------- | --------- | ------- | ------- | ------- | ------- |
 | 1002    |    1010Data    | [1010Data](https://1010data.com/company/careers/internship-program/) | 6 | 1 | 667693 | 1569557124 |   
 | 1003    |    21St Century Fox    | [21St Century Fox](https://www.21cfcareers.com/YourResources/Internships) | 5 | 0 | 744343 | 1569557125 |   
 | 1004    |    23Andme    | [23Andme](https://www.23andme.com/careers/) | 7 | 0 | 1666311 | 1569557130 |   
