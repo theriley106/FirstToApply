@@ -203,6 +203,8 @@ def update(companyCode):
 
 if __name__ == '__main__':
 	companies = sys.argv[1:]
+	if "--all" in str(companies):
+		companies = DB.keys()
 	if len(companies) == 0:
 		while True:
 			update(raw_input("Company Code: "))
