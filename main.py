@@ -8,6 +8,7 @@ import re
 import json
 import bs4
 import os
+import time
 from selenium import webdriver
 try:
 	from keys import *
@@ -177,34 +178,67 @@ def click_first_link():
 	results = driver.find_elements_by_xpath('//div[@class="r"]/a/h3')
 	results[0].click()
 
+def update_company(companyId):
+	db = json.load(open("db.json"))
+	allLines = open("filename.md").read().split("\n")
+	change = False
+	for i, val in enumerate(allLines):
+		if len(val) > 0:
+			splitTable = val[1:].split("|")
+			onlyNum = splitTable[0]
+			# This means it's a line with the company Info
+			if len(onlyNum) < 10 and len(splitTable) > 0:
+				nums = re.findall("\d+", onlyNum)
+				if len(nums) == 1:
+					if nums[0] == companyId:
+						change = True
+						companyName = db.get(companyId).get("companyName")
+						companyURL = db.get(companyId).get("url", "http://www.google.com")
+						splitTable[2] = "[{}]({})".format(companyName, companyURL)
+						splitTable[3] = db.get(companyId).get("count_intern", 0)
+						splitTable[4] = db.get(companyId).get("count_2019", 0)
+						splitTable[5] = db.get(companyId).get("ss_size", 0)
+						splitTable[6] = int(time.time())
+						allLines[i] = "|" + " | ".join([str(x) for x in splitTable])
+						break
+	if change == True:
+		with open('filename.md','w') as f:
+			f.write( '\n'.join(allLines) )
+
 def update(companyCode):
-	if companyCode not in DB:
-		print("{} DOES NOT EXIST".format(companyCode))
-		return
-	info = dict(DB[companyCode])
-	company = info['companyName']
-	search(company + " internships")
-	info['count_intern'] = str(driver.page_source).count('intern')
-	info['count_2019'] = str(driver.page_source).count('2020')
-	info['url'] = driver.current_url
-	driver.save_screenshot('temp.png')
-	info['ss_size'] = os.path.getsize('temp.png')
-	if DB[companyCode].get("count_intern", "O") != info['count_intern']:
-		print("{} IS OPEN".format(company))
-	elif DB[companyCode].get("count_2019", "O") != info['count_2019']:
-		print("{} IS OPEN".format(company))
-	elif float(abs(DB[companyCode].get("ss_size", -500) - info['ss_size'])) / float(info['ss_size']) > .05:
-		print("{} IS OPEN".format(company))
-	DB[companyCode] = info
-	with open('db.json', 'w') as outfile:
-		json.dump(DB, outfile, indent=4)
-	print("Updated {}".format(company))
-	os.system("rm temp.png")
+	try:
+		if companyCode not in DB:
+			print("{} DOES NOT EXIST".format(companyCode))
+			return
+		info = dict(DB[companyCode])
+		company = info['companyName']
+		search(company + " internships")
+		info['count_intern'] = str(driver.page_source).count('intern')
+		info['count_2019'] = str(driver.page_source).count('2020')
+		info['url'] = driver.current_url
+		driver.save_screenshot('temp.png')
+		info['ss_size'] = os.path.getsize('temp.png')
+		if DB[companyCode].get("count_intern", "O") != info['count_intern']:
+			print("{} IS OPEN".format(company))
+		elif DB[companyCode].get("count_2019", "O") != info['count_2019']:
+			print("{} IS OPEN".format(company))
+		elif float(abs(DB[companyCode].get("ss_size", -500) - info['ss_size'])) / float(info['ss_size']) > .05:
+			print("{} IS OPEN".format(company))
+		DB[companyCode] = info
+		with open('db.json', 'w') as outfile:
+			json.dump(DB, outfile, indent=4)
+		print("Updated {}".format(company))
+		os.system("rm temp.png")
+		os.system("echo {} >> finished.txt".format(companyCode))
+		update_company(companyCode)
+	except Exception as exp:
+		print("ERROR")
+		print(exp)
 
 if __name__ == '__main__':
 	companies = sys.argv[1:]
 	if "--all" in str(companies).lower():
-		companies = DB.keys()
+		companies = sorted(DB.keys())
 	if len(companies) == 0:
 		while True:
 			update(raw_input("Company Code: "))
@@ -212,5 +246,9 @@ if __name__ == '__main__':
 			if check_new(val['url'], val['2020'], val['intern'], val['company']):
 				print("{} IS OPEN".format(val['company']))
 	else:
+		count = 0
 		for val in companies:
 			update(val)
+			count += 1
+			if count % 20 == 0:
+				print("Finished {}".format(count))
