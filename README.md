@@ -688,7 +688,7 @@ Checking: AMD
 | 1671   |  [Freestyle Capital](http://freestyle.vc/)  |  0  |  0  |  2162580  |  1569559421  |  
 | 1672   |  [Freewheel](https://www.freewheel.com/careers/)  |  0  |  0  |  1141892  |  1569559426  |  
 | 1673   |  [Freewire Technologies](https://freewiretech.com/careers/)  |  3  |  0  |  1843811  |  1569559430  |  
-| 1674   |  [Fresco Microchip](https://careers.microchip.com/jobsearch/#All~Job~Categories | All~Job~Locations |  | d-ASC | 1)  |  0  |  0  |  354916  |  1569559432  |  
+| 1674   |  [Fresco Microchip](https://careers.microchip.com/jobsearch/#All~Job~Categories)  |  0  |  0  |  354916  |  1569559432  |  
 | 1675   |  [Fresenius Medical Care](https://www.google.com/search?&q=Fresenius+Medical+Care+internships&btnI)  |  76  |  0  |  123918  |  1569559434  |  
 | 1676   |  [Freshbooks](https://www.freshbooks.com/interns)  |  15  |  0  |  411140  |  1569559437  |  
 | 1677   |  [Freshdirect](https://jobs.jobvite.com/careers/fresh-direct/jobs)  |  0  |  0  |  72560  |  1569559440  |  
