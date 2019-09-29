@@ -17,11 +17,16 @@ except:
 	REDDIT_CLIENT_SECRET = ""
 
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.common.keys import Keys
 
 options = Options()
 options.headless = True
 
-driver = webdriver.Firefox(options=options)
+firefoxProfile = webdriver.FirefoxProfile()
+firefoxProfile.set_preference("http.response.timeout", 10)
+
+driver = webdriver.Firefox(options=options, firefox_profile=firefoxProfile)
+
 
 DB = json.load(open("db.json"))
 
@@ -172,7 +177,13 @@ def do_all():
 			print("{} IS OPEN".format(company['company']))
 
 def search(searchTerm):
-	driver.get("https://www.google.com/search?&q={}&btnI".format(searchTerm.replace(" ", "+")))
+	try:
+		driver.set_page_load_timeout(10)
+		driver.get("https://www.google.com/search?&q={}&btnI".format(searchTerm.replace(" ", "+")))
+	except Exception:
+		print 'time out'
+		webdriver.ActionChains(driver).send_keys(Keys.ESCAPE).perform()
+	
 
 def click_first_link():
 	results = driver.find_elements_by_xpath('//div[@class="r"]/a/h3')
@@ -237,6 +248,7 @@ def update(companyCode):
 
 if __name__ == '__main__':
 	companies = sys.argv[1:]
+	finished = [x.strip() for x in open("finished.txt").read().split("\n")]
 	if "--all" in str(companies).lower():
 		companies = sorted(DB.keys())
 	if len(companies) == 0:
@@ -248,7 +260,8 @@ if __name__ == '__main__':
 	else:
 		count = 0
 		for val in companies:
-			update(val)
-			count += 1
-			if count % 20 == 0:
-				print("Finished {}".format(count))
+			if str(val) not in finished:
+				update(val)
+				count += 1
+				if count % 20 == 0:
+					print("Finished {}".format(count))
