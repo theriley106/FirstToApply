@@ -182,7 +182,7 @@ def update_company(companyId):
 						allLines[i] = "|" + " | ".join([str(x) for x in splitTable])
 						break
 	if change == True:
-		with open('filename.md','w') as f:
+		with open('README.md','w') as f:
 			f.write( '\n'.join(allLines) )
 
 def update(companyCode):
