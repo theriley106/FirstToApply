@@ -209,7 +209,6 @@ def update(companyCode):
 			json.dump(DB, outfile, indent=4)
 		print("Updated {}".format(company))
 		os.system("rm temp.png")
-		os.system("echo {} >> finished.txt".format(companyCode))
 		update_company(companyCode)
 	except Exception as exp:
 		print("ERROR")
@@ -228,8 +227,7 @@ if __name__ == '__main__':
 	else:
 		count = 0
 		for val in companies:
-			if str(val) not in finished:
-				update(val)
-				count += 1
-				if count % 20 == 0:
-					print("Finished {}".format(count))
+			update(val)
+			count += 1
+			if count % 20 == 0:
+				print("Finished {}".format(count))
