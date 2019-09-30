@@ -1,6 +1,3 @@
-# InternshipHunter
-Data/Tools to consistently be the first to apply to competitive internships
-
 ## How to use
 
 ``` {.sourceCode .bash}
