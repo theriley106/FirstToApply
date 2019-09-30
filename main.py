@@ -209,7 +209,7 @@ def update(companyCode):
 			json.dump(DB, outfile, indent=4)
 		print("Updated {}".format(company))
 		os.system("rm temp.png")
-		update_company(companyCode)
+		# update_company(companyCode)
 	except Exception as exp:
 		print("ERROR")
 		print(exp)
