@@ -1,19 +1,19 @@
 {
     "2318": {
-        "ss_size": 113611, 
-        "url": "https://planetscale.com/team/", 
         "companyName": "Planetscale", 
         "count_intern": 7, 
         "idVal": "2318", 
-        "count_2019": 1
+        "count_2019": 1, 
+        "ss_size": 113611, 
+        "url": "https://planetscale.com/team/"
     }, 
     "2319": {
-        "ss_size": 859476, 
-        "url": "https://www.plangrid.com/careers/", 
         "companyName": "Plangrid", 
         "count_intern": 7, 
         "idVal": "2319", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 859476, 
+        "url": "https://www.plangrid.com/careers/"
     }, 
     "2316": {
         "companyName": "Plaid", 
@@ -184,12 +184,12 @@
         "url": "https://www.google.com/search?&q=Robert+Bosch+Venture+Capital+internships&btnI"
     }, 
     "2441": {
-        "ss_size": 30624, 
-        "url": "https://careers.robinhood.com/", 
         "companyName": "Robinhood", 
         "count_intern": 0, 
         "idVal": "2441", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 30624, 
+        "url": "https://careers.robinhood.com/"
     }, 
     "2446": {
         "companyName": "Rokk3R", 
@@ -320,74 +320,84 @@
         "url": "https://matterport.com/careers/"
     }, 
     "2688": {
-        "count_intern": 0, 
+        "companyName": "The Mobile Majority", 
+        "count_intern": 73, 
         "idVal": "2688", 
         "count_2019": 0, 
-        "companyName": "The Mobile Majority", 
-        "ss_size": 0
+        "ss_size": 122283, 
+        "url": "https://www.google.com/search?&q=The+Mobile+Majority+internships&btnI"
     }, 
     "2689": {
-        "count_intern": 0, 
+        "companyName": "The Muse", 
+        "count_intern": 115, 
         "idVal": "2689", 
         "count_2019": 0, 
-        "companyName": "The Muse", 
-        "ss_size": 0
+        "ss_size": 124911, 
+        "url": "https://www.google.com/search?&q=The+Muse+internships&btnI"
     }, 
     "2684": {
-        "count_intern": 0, 
+        "companyName": "The Home Depot", 
+        "count_intern": 54, 
         "idVal": "2684", 
         "count_2019": 0, 
-        "companyName": "The Home Depot", 
-        "ss_size": 0
+        "ss_size": 1403951, 
+        "url": "https://careers.homedepot.com/campus-connect/"
     }, 
     "2685": {
-        "count_intern": 0, 
+        "companyName": "The Jackson Laboratory", 
+        "count_intern": 10, 
         "idVal": "2685", 
         "count_2019": 0, 
-        "companyName": "The Jackson Laboratory", 
-        "ss_size": 0
+        "ss_size": 85212, 
+        "url": "https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/learn-earn-and-explore"
     }, 
     "2686": {
-        "count_intern": 0, 
+        "companyName": "The Mednet", 
+        "count_intern": 57, 
         "idVal": "2686", 
         "count_2019": 0, 
-        "companyName": "The Mednet", 
-        "ss_size": 0
+        "ss_size": 116601, 
+        "url": "https://www.google.com/search?&q=The+Mednet+internships&btnI"
     }, 
     "2687": {
-        "count_intern": 0, 
-        "idVal": "2687", 
-        "count_2019": 0, 
         "companyName": "The Minerva Project", 
-        "ss_size": 0
+        "count_intern": 4, 
+        "idVal": "2687", 
+        "count_2019": 1, 
+        "ss_size": 110980, 
+        "url": "https://www.minerva.kgi.edu/career-development/professional_experience/"
     }, 
     "2680": {
-        "count_intern": 0, 
+        "companyName": "The Boeing Company", 
+        "count_intern": 155, 
         "idVal": "2680", 
         "count_2019": 0, 
-        "companyName": "The Boeing Company", 
-        "ss_size": 0
+        "ss_size": 1036235, 
+        "url": "https://jobs.boeing.com/internships"
     }, 
     "2681": {
-        "count_intern": 0, 
+        "companyName": "The Floor", 
+        "count_intern": 85, 
         "idVal": "2681", 
         "count_2019": 0, 
-        "companyName": "The Floor", 
-        "ss_size": 0
+        "ss_size": 124961, 
+        "url": "https://www.google.com/search?&q=The+Floor+internships&btnI"
     }, 
     "2682": {
+        "companyName": "The Glass Files", 
         "count_intern": 0, 
         "idVal": "2682", 
         "count_2019": 0, 
-        "companyName": "The Glass Files", 
-        "ss_size": 0
+        "ss_size": 86642, 
+        "url": "https://www.linkedin.com/company/the-glass-files"
     }, 
     "2683": {
-        "count_intern": 0, 
-        "idVal": "2683", 
-        "count_2019": 0, 
         "companyName": "The Glimpse Group", 
-        "ss_size": 0
+        "count_intern": 9, 
+        "idVal": "2683", 
+        "count_2019": 1, 
+        "ss_size": 51605, 
+        "url": "https://www.theglimpsegroup.com/contact"
     }, 
     "1623": {
         "companyName": "Faire", 
@@ -486,74 +496,84 @@
         "url": "https://careers.fedex.com/intern"
     }, 
     "2860": {
+        "companyName": "Venrock", 
         "count_intern": 0, 
         "idVal": "2860", 
         "count_2019": 0, 
-        "companyName": "Venrock", 
-        "ss_size": 0
+        "ss_size": 43360, 
+        "url": "https://jobs.venrock.com/"
     }, 
     "2861": {
-        "count_intern": 0, 
+        "companyName": "Verisign", 
+        "count_intern": 27, 
         "idVal": "2861", 
         "count_2019": 0, 
-        "companyName": "Verisign", 
-        "ss_size": 0
+        "ss_size": 232342, 
+        "url": "https://www.verisign.com/en_US/company-information/verisign-labs/technology-innovation-program/internship/index.xhtml"
     }, 
     "2862": {
-        "count_intern": 0, 
+        "companyName": "Verity Studios", 
+        "count_intern": 22, 
         "idVal": "2862", 
         "count_2019": 0, 
-        "companyName": "Verity Studios", 
-        "ss_size": 0
+        "ss_size": 346815, 
+        "url": "https://veritystudios.com/careers"
     }, 
     "2863": {
-        "count_intern": 0, 
+        "companyName": "Verizon Communications", 
+        "count_intern": 12, 
         "idVal": "2863", 
         "count_2019": 0, 
-        "companyName": "Verizon Communications", 
-        "ss_size": 0
+        "ss_size": 1190689, 
+        "url": "https://www.verizon.com/about/careers/college-students"
     }, 
     "2864": {
-        "count_intern": 0, 
-        "idVal": "2864", 
-        "count_2019": 0, 
         "companyName": "Verizon Wireless", 
-        "ss_size": 0
+        "count_intern": 194, 
+        "idVal": "2864", 
+        "count_2019": 14, 
+        "ss_size": 126835, 
+        "url": "https://www.verizon.com/about/work/search/students-internships-and-co-op/jobs"
     }, 
     "2865": {
-        "count_intern": 0, 
+        "companyName": "Versium", 
+        "count_intern": 53, 
         "idVal": "2865", 
         "count_2019": 0, 
-        "companyName": "Versium", 
-        "ss_size": 0
+        "ss_size": 114176, 
+        "url": "https://www.google.com/search?&q=Versium+internships&btnI"
     }, 
     "2866": {
+        "companyName": "Vertebrae", 
         "count_intern": 0, 
         "idVal": "2866", 
         "count_2019": 0, 
-        "companyName": "Vertebrae", 
-        "ss_size": 0
+        "ss_size": 388942, 
+        "url": "https://www.vertebrae.com/careers/"
     }, 
     "2867": {
+        "companyName": "Vf", 
         "count_intern": 0, 
         "idVal": "2867", 
         "count_2019": 0, 
-        "companyName": "Vf", 
-        "ss_size": 0
+        "ss_size": 1029781, 
+        "url": "https://www.vfc.com/careers"
     }, 
     "2868": {
-        "count_intern": 0, 
+        "companyName": "Viasat", 
+        "count_intern": 30, 
         "idVal": "2868", 
         "count_2019": 0, 
-        "companyName": "Viasat", 
-        "ss_size": 0
+        "ss_size": 1721834, 
+        "url": "https://careers.viasat.com/careers/Interns"
     }, 
     "2869": {
-        "count_intern": 0, 
+        "companyName": "Vice Media", 
+        "count_intern": 13, 
         "idVal": "2869", 
         "count_2019": 0, 
-        "companyName": "Vice Media", 
-        "ss_size": 0
+        "ss_size": 98929, 
+        "url": "https://boards.greenhouse.io/viceusinternships2019"
     }, 
     "1199": {
         "companyName": "Bill.Com", 
@@ -956,11 +976,12 @@
         "url": "https://step.elsa.org/"
     }, 
     "2741": {
-        "count_intern": 0, 
+        "companyName": "Transcriptic", 
+        "count_intern": 3, 
         "idVal": "2741", 
         "count_2019": 0, 
-        "companyName": "Transcriptic", 
-        "ss_size": 0
+        "ss_size": 57594, 
+        "url": "https://www.transcriptic.com/hiring/"
     }, 
     "2036": {
         "companyName": "Manulife Financial", 
@@ -971,11 +992,12 @@
         "url": "https://www.manulife.com/en/careers/students.html"
     }, 
     "2743": {
-        "count_intern": 0, 
+        "companyName": "Traveloka", 
+        "count_intern": 60, 
         "idVal": "2743", 
         "count_2019": 0, 
-        "companyName": "Traveloka", 
-        "ss_size": 0
+        "ss_size": 111670, 
+        "url": "https://www.google.com/search?&q=Traveloka+internships&btnI"
     }, 
     "1371": {
         "companyName": "Clari", 
@@ -1066,11 +1088,12 @@
         "url": "https://makersights.com/team/"
     }, 
     "2747": {
-        "count_intern": 0, 
-        "idVal": "2747", 
-        "count_2019": 0, 
         "companyName": "Tresata", 
-        "ss_size": 0
+        "count_intern": 68, 
+        "idVal": "2747", 
+        "count_2019": 2, 
+        "ss_size": 117768, 
+        "url": "https://www.google.com/search?&q=Tresata+internships&btnI"
     }, 
     "1242": {
         "companyName": "Bose", 
@@ -1081,11 +1104,12 @@
         "url": "https://www.google.com/search?&q=Bose+internships&btnI"
     }, 
     "2746": {
-        "count_intern": 0, 
+        "companyName": "Treebo Hotels", 
+        "count_intern": 1, 
         "idVal": "2746", 
         "count_2019": 0, 
-        "companyName": "Treebo Hotels", 
-        "ss_size": 0
+        "ss_size": 1581739, 
+        "url": "https://treebo-alpha-btyy.squarespace.com/"
     }, 
     "1245": {
         "companyName": "Bouquet.Ai", 
@@ -1248,11 +1272,12 @@
         "url": "https://www.peek.com/pro/work-at-peek"
     }, 
     "2279": {
+        "companyName": "Peraso Technologies", 
         "count_intern": 0, 
         "idVal": "2279", 
         "count_2019": 0, 
-        "companyName": "Peraso Technologies", 
-        "ss_size": 0
+        "ss_size": 762036, 
+        "url": "https://perasotech.com/careers/"
     }, 
     "2278": {
         "companyName": "Pepperfry", 
@@ -1431,74 +1456,84 @@
         "url": "https://ligado.com/about-us/careers/open-positions/"
     }, 
     "2699": {
-        "count_intern": 0, 
+        "companyName": "Thinkster Math", 
+        "count_intern": 49, 
         "idVal": "2699", 
         "count_2019": 0, 
-        "companyName": "Thinkster Math", 
-        "ss_size": 0
+        "ss_size": 116379, 
+        "url": "https://www.google.com/search?&q=Thinkster+Math+internships&btnI"
     }, 
     "2698": {
+        "companyName": "Thinkific", 
         "count_intern": 0, 
         "idVal": "2698", 
         "count_2019": 0, 
-        "companyName": "Thinkific", 
-        "ss_size": 0
+        "ss_size": 72829, 
+        "url": "https://www.thinkific.com/careers/"
     }, 
     "2697": {
-        "count_intern": 0, 
+        "companyName": "Thinkful", 
+        "count_intern": 65, 
         "idVal": "2697", 
         "count_2019": 0, 
-        "companyName": "Thinkful", 
-        "ss_size": 0
+        "ss_size": 107167, 
+        "url": "https://www.google.com/search?&q=Thinkful+internships&btnI"
     }, 
     "2696": {
+        "companyName": "Thescore", 
         "count_intern": 0, 
         "idVal": "2696", 
         "count_2019": 0, 
-        "companyName": "Thescore", 
-        "ss_size": 0
+        "ss_size": 506245, 
+        "url": "https://mobile.thescore.com/careers/"
     }, 
     "2695": {
-        "count_intern": 0, 
+        "companyName": "The We Company", 
+        "count_intern": 78, 
         "idVal": "2695", 
         "count_2019": 0, 
-        "companyName": "The We Company", 
-        "ss_size": 0
+        "ss_size": 124879, 
+        "url": "https://www.google.com/search?&q=The+We+Company+internships&btnI"
     }, 
     "2694": {
-        "count_intern": 0, 
+        "companyName": "The Walt Disney Company", 
+        "count_intern": 10, 
         "idVal": "2694", 
         "count_2019": 0, 
-        "companyName": "The Walt Disney Company", 
-        "ss_size": 0
+        "ss_size": 512118, 
+        "url": "https://jobs.disneycareers.com/professional-internships"
     }, 
     "2693": {
+        "companyName": "The Trade Desk", 
         "count_intern": 0, 
         "idVal": "2693", 
         "count_2019": 0, 
-        "companyName": "The Trade Desk", 
-        "ss_size": 0
+        "ss_size": 1143102, 
+        "url": "https://www.thetradedesk.com/careers/open-positions"
     }, 
     "2692": {
+        "companyName": "The Pill Club", 
         "count_intern": 0, 
         "idVal": "2692", 
         "count_2019": 0, 
-        "companyName": "The Pill Club", 
-        "ss_size": 0
+        "ss_size": 36386, 
+        "url": "https://jobs.lever.co/thepillclub"
     }, 
     "2691": {
-        "count_intern": 0, 
-        "idVal": "2691", 
-        "count_2019": 0, 
         "companyName": "The New York Times", 
-        "ss_size": 0
+        "count_intern": 29, 
+        "idVal": "2691", 
+        "count_2019": 4, 
+        "ss_size": 724149, 
+        "url": "https://www.nytco.com/careers/summer-internship-program/"
     }, 
     "2690": {
-        "count_intern": 0, 
-        "idVal": "2690", 
-        "count_2019": 0, 
         "companyName": "The Nature Conservancy", 
-        "ss_size": 0
+        "count_intern": 61, 
+        "idVal": "2690", 
+        "count_2019": 1, 
+        "ss_size": 2176277, 
+        "url": "https://www.nature.org/en-us/about-us/careers/internships/"
     }, 
     "1974": {
         "companyName": "Lifemed Media", 
@@ -1637,74 +1672,84 @@
         "url": "https://www.google.com/search?&q=Experfy+internships&btnI"
     }, 
     "2873": {
+        "companyName": "Viralgains", 
         "count_intern": 0, 
         "idVal": "2873", 
         "count_2019": 0, 
-        "companyName": "Viralgains", 
-        "ss_size": 0
+        "ss_size": 95780, 
+        "url": "https://www.linkedin.com/company/viralgains"
     }, 
     "2872": {
-        "count_intern": 0, 
+        "companyName": "Vineti", 
+        "count_intern": 56, 
         "idVal": "2872", 
         "count_2019": 0, 
-        "companyName": "Vineti", 
-        "ss_size": 0
+        "ss_size": 106669, 
+        "url": "https://www.google.com/search?&q=Vineti+internships&btnI"
     }, 
     "2871": {
-        "count_intern": 0, 
+        "companyName": "Vidyard", 
+        "count_intern": 3, 
         "idVal": "2871", 
         "count_2019": 0, 
-        "companyName": "Vidyard", 
-        "ss_size": 0
+        "ss_size": 1132224, 
+        "url": "https://www.vidyard.com/careers/"
     }, 
     "2870": {
-        "count_intern": 0, 
+        "companyName": "Videoken", 
+        "count_intern": 57, 
         "idVal": "2870", 
         "count_2019": 0, 
-        "companyName": "Videoken", 
-        "ss_size": 0
+        "ss_size": 113013, 
+        "url": "https://www.google.com/search?&q=Videoken+internships&btnI"
     }, 
     "2877": {
-        "count_intern": 0, 
+        "companyName": "Virtual Power Systems", 
+        "count_intern": 2, 
         "idVal": "2877", 
         "count_2019": 0, 
-        "companyName": "Virtual Power Systems", 
-        "ss_size": 0
+        "ss_size": 422370, 
+        "url": "http://www.virtualpowersystems.com/careers/"
     }, 
     "2876": {
+        "companyName": "Virtual Instruments", 
         "count_intern": 0, 
         "idVal": "2876", 
         "count_2019": 0, 
-        "companyName": "Virtual Instruments", 
-        "ss_size": 0
+        "ss_size": 518676, 
+        "url": "https://www.virtualinstruments.com/about/careers/"
     }, 
     "2875": {
+        "companyName": "Virtru", 
         "count_intern": 0, 
         "idVal": "2875", 
-        "count_2019": 0, 
-        "companyName": "Virtru", 
-        "ss_size": 0
+        "count_2019": 1, 
+        "ss_size": 78993, 
+        "url": "https://www.virtru.com/careers/"
     }, 
     "2874": {
-        "count_intern": 0, 
+        "companyName": "Virginia Tech", 
+        "count_intern": 24, 
         "idVal": "2874", 
         "count_2019": 0, 
-        "companyName": "Virginia Tech", 
-        "ss_size": 0
+        "ss_size": 109951, 
+        "url": "https://career.vt.edu/experience/Internships/find-internships.html"
     }, 
     "2879": {
-        "count_intern": 0, 
+        "companyName": "Visa", 
+        "count_intern": 100, 
         "idVal": "2879", 
         "count_2019": 0, 
-        "companyName": "Visa", 
-        "ss_size": 0
+        "ss_size": 1187064, 
+        "url": "https://usa.visa.com/careers/university-recruiting.html"
     }, 
     "2878": {
-        "count_intern": 0, 
+        "companyName": "Virtualitics", 
+        "count_intern": 47, 
         "idVal": "2878", 
         "count_2019": 0, 
-        "companyName": "Virtualitics", 
-        "ss_size": 0
+        "ss_size": 114143, 
+        "url": "https://www.google.com/search?&q=Virtualitics+internships&btnI"
     }, 
     "1768": {
         "companyName": "Haven", 
@@ -1961,6 +2006,14 @@
         "count_2019": 0, 
         "ss_size": 416079, 
         "url": "https://hiya.com/blog/2018/07/25/peek-life-hiya-intern-lisa-liu/"
+    }, 
+    "2388": {
+        "companyName": "Quotient Technology", 
+        "count_intern": 1, 
+        "idVal": "2388", 
+        "count_2019": 0, 
+        "ss_size": 91078, 
+        "url": "https://jobs.jobvite.com/quotient"
     }, 
     "1787": {
         "companyName": "Homeaway", 
@@ -2379,74 +2432,84 @@
         "url": "https://www.servicetitan.com/job-openings"
     }, 
     "2734": {
+        "companyName": "Tovala", 
         "count_intern": 0, 
         "idVal": "2734", 
         "count_2019": 0, 
-        "companyName": "Tovala", 
-        "ss_size": 0
+        "ss_size": 1393530, 
+        "url": "https://www.tovala.com/careers"
     }, 
     "2735": {
-        "count_intern": 0, 
+        "companyName": "Tower Research", 
+        "count_intern": 1, 
         "idVal": "2735", 
         "count_2019": 0, 
-        "companyName": "Tower Research", 
-        "ss_size": 0
+        "ss_size": 33971, 
+        "url": "https://www.tower-research.com/open-positions"
     }, 
     "2736": {
-        "count_intern": 0, 
+        "companyName": "Toyota Motor Corporation", 
+        "count_intern": 3, 
         "idVal": "2736", 
         "count_2019": 0, 
-        "companyName": "Toyota Motor Corporation", 
-        "ss_size": 0
+        "ss_size": 1191105, 
+        "url": "https://www.toyota.com/usa/careers/"
     }, 
     "2737": {
-        "count_intern": 0, 
-        "idVal": "2737", 
-        "count_2019": 0, 
         "companyName": "Trace", 
-        "ss_size": 0
+        "count_intern": 36, 
+        "idVal": "2737", 
+        "count_2019": 1, 
+        "ss_size": 716491, 
+        "url": "https://www.traceinternational.org/Careers"
     }, 
     "2730": {
-        "count_intern": 0, 
+        "companyName": "Tophatter", 
+        "count_intern": 58, 
         "idVal": "2730", 
         "count_2019": 0, 
-        "companyName": "Tophatter", 
-        "ss_size": 0
+        "ss_size": 109842, 
+        "url": "https://www.google.com/search?&q=Tophatter+internships&btnI"
     }, 
     "2731": {
+        "companyName": "Totemic", 
         "count_intern": 0, 
         "idVal": "2731", 
         "count_2019": 0, 
-        "companyName": "Totemic", 
-        "ss_size": 0
+        "ss_size": 122890, 
+        "url": "https://www.totemic.com/jobs"
     }, 
     "2732": {
-        "count_intern": 0, 
+        "companyName": "Totle", 
+        "count_intern": 92, 
         "idVal": "2732", 
         "count_2019": 0, 
-        "companyName": "Totle", 
-        "ss_size": 0
+        "ss_size": 108644, 
+        "url": "https://www.google.com/search?&q=Totle+internships&btnI"
     }, 
     "2733": {
-        "count_intern": 0, 
+        "companyName": "Toutiao", 
+        "count_intern": 1, 
         "idVal": "2733", 
         "count_2019": 0, 
-        "companyName": "Toutiao", 
-        "ss_size": 0
+        "ss_size": 65324, 
+        "url": "https://www.linkedin.com/company/bytedance/jobs"
     }, 
     "2738": {
+        "companyName": "Tractable", 
         "count_intern": 0, 
         "idVal": "2738", 
         "count_2019": 0, 
-        "companyName": "Tractable", 
-        "ss_size": 0
+        "ss_size": 113582, 
+        "url": "https://angel.co/company/tractable/jobs"
     }, 
     "2739": {
-        "count_intern": 0, 
+        "companyName": "Tracxn", 
+        "count_intern": 53, 
         "idVal": "2739", 
         "count_2019": 0, 
-        "companyName": "Tracxn", 
-        "ss_size": 0
+        "ss_size": 115170, 
+        "url": "https://www.google.com/search?&q=Tracxn+internships&btnI"
     }, 
     "1106": {
         "companyName": "Appnexus", 
@@ -2641,74 +2704,84 @@
         "url": "https://www.lendup.com/careers/positions"
     }, 
     "2848": {
-        "count_intern": 0, 
+        "companyName": "Varian Medical Systems", 
+        "count_intern": 13, 
         "idVal": "2848", 
         "count_2019": 0, 
-        "companyName": "Varian Medical Systems", 
-        "ss_size": 0
+        "ss_size": 151316, 
+        "url": "https://www.varian.com/about-varian/careers/university-recruiting"
     }, 
     "2849": {
-        "count_intern": 0, 
+        "companyName": "Varsity Tutors", 
+        "count_intern": 61, 
         "idVal": "2849", 
         "count_2019": 0, 
-        "companyName": "Varsity Tutors", 
-        "ss_size": 0
+        "ss_size": 113596, 
+        "url": "https://www.google.com/search?&q=Varsity+Tutors+internships&btnI"
     }, 
     "2846": {
-        "count_intern": 0, 
+        "companyName": "Vacasa", 
+        "count_intern": 3, 
         "idVal": "2846", 
         "count_2019": 0, 
-        "companyName": "Vacasa", 
-        "ss_size": 0
+        "ss_size": 924539, 
+        "url": "https://www.vacasa.com/careers"
     }, 
     "2847": {
-        "count_intern": 0, 
-        "idVal": "2847", 
-        "count_2019": 0, 
         "companyName": "Vanderbilt University", 
-        "ss_size": 0
+        "count_intern": 32, 
+        "idVal": "2847", 
+        "count_2019": 2, 
+        "ss_size": 93233, 
+        "url": "https://www.vanderbilt.edu/career/internships/"
     }, 
     "2844": {
-        "count_intern": 0, 
+        "companyName": "Uxp Systems", 
+        "count_intern": 59, 
         "idVal": "2844", 
         "count_2019": 0, 
-        "companyName": "Uxp Systems", 
-        "ss_size": 0
+        "ss_size": 125682, 
+        "url": "https://www.google.com/search?&q=Uxp+Systems+internships&btnI"
     }, 
     "2845": {
-        "count_intern": 0, 
+        "companyName": "V-Key", 
+        "count_intern": 71, 
         "idVal": "2845", 
         "count_2019": 0, 
-        "companyName": "V-Key", 
-        "ss_size": 0
+        "ss_size": 116110, 
+        "url": "https://www.google.com/search?&q=V-Key+internships&btnI"
     }, 
     "2842": {
-        "count_intern": 0, 
+        "companyName": "Usens", 
+        "count_intern": 65, 
         "idVal": "2842", 
         "count_2019": 0, 
-        "companyName": "Usens", 
-        "ss_size": 0
+        "ss_size": 110201, 
+        "url": "https://www.google.com/search?&q=Usens+internships&btnI"
     }, 
     "2843": {
-        "count_intern": 0, 
-        "idVal": "2843", 
-        "count_2019": 0, 
         "companyName": "Ust Global", 
-        "ss_size": 0
+        "count_intern": 53, 
+        "idVal": "2843", 
+        "count_2019": 1, 
+        "ss_size": 117390, 
+        "url": "https://www.google.com/search?&q=Ust+Global+internships&btnI"
     }, 
     "2840": {
+        "companyName": "Urjanet", 
         "count_intern": 0, 
         "idVal": "2840", 
         "count_2019": 0, 
-        "companyName": "Urjanet", 
-        "ss_size": 0
+        "ss_size": 1156882, 
+        "url": "https://urjanet.com/about/join-team/"
     }, 
     "2841": {
-        "count_intern": 0, 
+        "companyName": "Ursa Space Systems", 
+        "count_intern": 34, 
         "idVal": "2841", 
         "count_2019": 0, 
-        "companyName": "Ursa Space Systems", 
-        "ss_size": 0
+        "ss_size": 821799, 
+        "url": "https://www.ursaspace.com/careers"
     }, 
     "1775": {
         "companyName": "Healthtap", 
@@ -2791,11 +2864,12 @@
         "url": "https://www.google.com/search?&q=Helpshift+internships&btnI"
     }, 
     "2998": {
-        "count_intern": 0, 
+        "companyName": "Zola Electric", 
+        "count_intern": 2, 
         "idVal": "2998", 
         "count_2019": 0, 
-        "companyName": "Zola Electric", 
-        "ss_size": 0
+        "ss_size": 320340, 
+        "url": "https://zolaelectric.com/"
     }, 
     "1159": {
         "companyName": "Axway", 
@@ -2814,11 +2888,12 @@
         "url": "https://www.axtria.com/careers/"
     }, 
     "2999": {
+        "companyName": "Zoom", 
         "count_intern": 0, 
         "idVal": "2999", 
         "count_2019": 0, 
-        "companyName": "Zoom", 
-        "ss_size": 0
+        "ss_size": 370028, 
+        "url": "https://zoom.us/careers"
     }, 
     "1155": {
         "companyName": "Axalent", 
@@ -2965,60 +3040,68 @@
         "url": "https://careers.ebayinc.com/students-recent-graduates/"
     }, 
     "2992": {
+        "companyName": "Zingbox", 
         "count_intern": 0, 
         "idVal": "2992", 
         "count_2019": 0, 
-        "companyName": "Zingbox", 
-        "ss_size": 0
+        "ss_size": 811436, 
+        "url": "https://www.zingbox.com/careers/"
     }, 
     "2993": {
-        "count_intern": 0, 
+        "companyName": "Zingle", 
+        "count_intern": 53, 
         "idVal": "2993", 
         "count_2019": 0, 
-        "companyName": "Zingle", 
-        "ss_size": 0
+        "ss_size": 113286, 
+        "url": "https://www.google.com/search?&q=Zingle+internships&btnI"
     }, 
     "2994": {
-        "count_intern": 0, 
+        "companyName": "Zinier", 
+        "count_intern": 3, 
         "idVal": "2994", 
         "count_2019": 0, 
-        "companyName": "Zinier", 
-        "ss_size": 0
+        "ss_size": 1492838, 
+        "url": "https://www.zinier.com/"
     }, 
     "2995": {
-        "count_intern": 0, 
-        "idVal": "2995", 
-        "count_2019": 0, 
         "companyName": "Ziprecruiter", 
-        "ss_size": 0
+        "count_intern": 17, 
+        "idVal": "2995", 
+        "count_2019": 43, 
+        "ss_size": 131568, 
+        "url": "https://www.ziprecruiter.com/Jobs/Internship"
     }, 
     "2996": {
+        "companyName": "Zoba", 
         "count_intern": 0, 
         "idVal": "2996", 
         "count_2019": 0, 
-        "companyName": "Zoba", 
-        "ss_size": 0
+        "ss_size": 72907, 
+        "url": "https://www.linkedin.com/company/zoba"
     }, 
     "2997": {
-        "count_intern": 0, 
+        "companyName": "Zoemob", 
+        "count_intern": 45, 
         "idVal": "2997", 
         "count_2019": 0, 
-        "companyName": "Zoemob", 
-        "ss_size": 0
+        "ss_size": 130515, 
+        "url": "https://www.google.com/search?&q=Zoemob+internships&btnI"
     }, 
     "2990": {
-        "count_intern": 0, 
-        "idVal": "2990", 
-        "count_2019": 0, 
         "companyName": "Zillow", 
-        "ss_size": 0
+        "count_intern": 17, 
+        "idVal": "2990", 
+        "count_2019": 2, 
+        "ss_size": 1353017, 
+        "url": "https://www.zillow.com/careers/university/"
     }, 
     "2991": {
-        "count_intern": 0, 
-        "idVal": "2991", 
-        "count_2019": 0, 
         "companyName": "Zillow Group", 
-        "ss_size": 0
+        "count_intern": 17, 
+        "idVal": "2991", 
+        "count_2019": 2, 
+        "ss_size": 1353017, 
+        "url": "https://www.zillow.com/careers/university/"
     }, 
     "1976": {
         "companyName": "Liftigniter", 
@@ -3445,74 +3528,84 @@
         "url": "https://angel.co/company/seniorly/jobs/557559-marketing-paid-internship"
     }, 
     "2727": {
+        "companyName": "Todaytix", 
         "count_intern": 0, 
         "idVal": "2727", 
         "count_2019": 0, 
-        "companyName": "Todaytix", 
-        "ss_size": 0
+        "ss_size": 1069709, 
+        "url": "https://www.todaytix.com/jobs"
     }, 
     "2726": {
-        "count_intern": 0, 
-        "idVal": "2726", 
-        "count_2019": 0, 
         "companyName": "Toast", 
-        "ss_size": 0
+        "count_intern": 11, 
+        "idVal": "2726", 
+        "count_2019": 13, 
+        "ss_size": 1303719, 
+        "url": "https://careers.toasttab.com/"
     }, 
     "2725": {
+        "companyName": "Tivo", 
         "count_intern": 0, 
         "idVal": "2725", 
         "count_2019": 0, 
-        "companyName": "Tivo", 
-        "ss_size": 0
+        "ss_size": 446650, 
+        "url": "http://careers.tivo.com/"
     }, 
     "2724": {
-        "count_intern": 0, 
-        "idVal": "2724", 
-        "count_2019": 0, 
         "companyName": "Tive", 
-        "ss_size": 0
+        "count_intern": 69, 
+        "idVal": "2724", 
+        "count_2019": 4, 
+        "ss_size": 118460, 
+        "url": "https://www.google.com/search?&q=Tive+internships&btnI"
     }, 
     "2723": {
+        "companyName": "Tipranks", 
         "count_intern": 0, 
         "idVal": "2723", 
         "count_2019": 0, 
-        "companyName": "Tipranks", 
-        "ss_size": 0
+        "ss_size": 1027706, 
+        "url": "https://www.tipranks.com/jobs"
     }, 
     "2722": {
-        "count_intern": 0, 
+        "companyName": "Tinyowl Technology", 
+        "count_intern": 57, 
         "idVal": "2722", 
         "count_2019": 0, 
-        "companyName": "Tinyowl Technology", 
-        "ss_size": 0
+        "ss_size": 126672, 
+        "url": "https://www.google.com/search?&q=Tinyowl+Technology+internships&btnI"
     }, 
     "2721": {
-        "count_intern": 0, 
+        "companyName": "Tinkoff Bank", 
+        "count_intern": 2, 
         "idVal": "2721", 
         "count_2019": 0, 
-        "companyName": "Tinkoff Bank", 
-        "ss_size": 0
+        "ss_size": 426330, 
+        "url": "https://www.tinkoff.ru/eng/"
     }, 
     "2720": {
+        "companyName": "Tinder", 
         "count_intern": 0, 
         "idVal": "2720", 
         "count_2019": 0, 
-        "companyName": "Tinder", 
-        "ss_size": 0
+        "ss_size": 5290, 
+        "url": "https://www.gotinder.com/jobs?locale=en"
     }, 
     "2729": {
-        "count_intern": 0, 
+        "companyName": "Top Hat", 
+        "count_intern": 2, 
         "idVal": "2729", 
         "count_2019": 0, 
-        "companyName": "Top Hat", 
-        "ss_size": 0
+        "ss_size": 233208, 
+        "url": "https://tophat.com/company/work-with-us/"
     }, 
     "2728": {
-        "count_intern": 0, 
+        "companyName": "Tokopedia", 
+        "count_intern": 97, 
         "idVal": "2728", 
         "count_2019": 0, 
-        "companyName": "Tokopedia", 
-        "ss_size": 0
+        "ss_size": 128306, 
+        "url": "https://www.google.com/search?&q=Tokopedia+internships&btnI"
     }, 
     "1807": {
         "companyName": "Hudl", 
@@ -3715,11 +3808,12 @@
         "url": "https://www.google.com/search?&q=Directly+internships&btnI"
     }, 
     "2859": {
+        "companyName": "Venmo", 
         "count_intern": 0, 
         "idVal": "2859", 
         "count_2019": 0, 
-        "companyName": "Venmo", 
-        "ss_size": 0
+        "ss_size": 106114, 
+        "url": "https://venmo.com/jobs/"
     }, 
     "1991": {
         "companyName": "Livongo", 
@@ -3746,39 +3840,44 @@
         "url": "https://www.google.com/search?&q=Faircent+internships&btnI"
     }, 
     "2851": {
-        "count_intern": 0, 
+        "companyName": "Vave Health", 
+        "count_intern": 48, 
         "idVal": "2851", 
         "count_2019": 0, 
-        "companyName": "Vave Health", 
-        "ss_size": 0
+        "ss_size": 119825, 
+        "url": "https://www.google.com/search?&q=Vave+Health+internships&btnI"
     }, 
     "2850": {
+        "companyName": "Vaultize", 
         "count_intern": 0, 
         "idVal": "2850", 
         "count_2019": 0, 
-        "companyName": "Vaultize", 
-        "ss_size": 0
+        "ss_size": 99988, 
+        "url": "https://www.linkedin.com/company/vaultize"
     }, 
     "2853": {
+        "companyName": "Vectra Networks", 
         "count_intern": 0, 
         "idVal": "2853", 
-        "count_2019": 0, 
-        "companyName": "Vectra Networks", 
-        "ss_size": 0
+        "count_2019": 1, 
+        "ss_size": 80479, 
+        "url": "https://www.vectra.ai/about/careers"
     }, 
     "2852": {
+        "companyName": "Vectra Ai", 
         "count_intern": 0, 
         "idVal": "2852", 
-        "count_2019": 0, 
-        "companyName": "Vectra Ai", 
-        "ss_size": 0
+        "count_2019": 1, 
+        "ss_size": 80256, 
+        "url": "https://www.vectra.ai/about/careers"
     }, 
     "2855": {
-        "count_intern": 0, 
+        "companyName": "Velocity", 
+        "count_intern": 74, 
         "idVal": "2855", 
         "count_2019": 0, 
-        "companyName": "Velocity", 
-        "ss_size": 0
+        "ss_size": 120550, 
+        "url": "https://www.google.com/search?&q=Velocity+internships&btnI"
     }, 
     "1621": {
         "companyName": "Factset", 
@@ -3789,18 +3888,20 @@
         "url": "https://www.factset.com/careers"
     }, 
     "2857": {
+        "companyName": "Vena Solutions", 
         "count_intern": 0, 
         "idVal": "2857", 
         "count_2019": 0, 
-        "companyName": "Vena Solutions", 
-        "ss_size": 0
+        "ss_size": 664186, 
+        "url": "https://careers.venasolutions.com/"
     }, 
     "2856": {
-        "count_intern": 0, 
+        "companyName": "Velos", 
+        "count_intern": 12, 
         "idVal": "2856", 
         "count_2019": 0, 
-        "companyName": "Velos", 
-        "ss_size": 0
+        "ss_size": 96047, 
+        "url": "https://www.linkedin.com/jobs/view/government-relations-intern-space-defense-at-velos-1210582472"
     }, 
     "1490": {
         "companyName": "Datastax", 
@@ -4059,74 +4160,84 @@
         "url": "https://angel.co/company/arya-ai/jobs"
     }, 
     "2989": {
+        "companyName": "Zig Bang", 
         "count_intern": 0, 
         "idVal": "2989", 
         "count_2019": 0, 
-        "companyName": "Zig Bang", 
-        "ss_size": 0
+        "ss_size": 99092, 
+        "url": "https://angel.co/company/zig-bang"
     }, 
     "2988": {
-        "count_intern": 0, 
+        "companyName": "Zibby", 
+        "count_intern": 67, 
         "idVal": "2988", 
         "count_2019": 0, 
-        "companyName": "Zibby", 
-        "ss_size": 0
+        "ss_size": 123002, 
+        "url": "https://www.google.com/search?&q=Zibby+internships&btnI"
     }, 
     "2983": {
-        "count_intern": 0, 
+        "companyName": "Zero Zero Robotics", 
+        "count_intern": 61, 
         "idVal": "2983", 
         "count_2019": 0, 
-        "companyName": "Zero Zero Robotics", 
-        "ss_size": 0
+        "ss_size": 121926, 
+        "url": "https://www.google.com/search?&q=Zero+Zero+Robotics+internships&btnI"
     }, 
     "2982": {
+        "companyName": "Zenreach", 
         "count_intern": 0, 
         "idVal": "2982", 
         "count_2019": 0, 
-        "companyName": "Zenreach", 
-        "ss_size": 0
+        "ss_size": 699283, 
+        "url": "https://zenreach.com/careers/"
     }, 
     "2981": {
+        "companyName": "Zenoti", 
         "count_intern": 0, 
         "idVal": "2981", 
         "count_2019": 0, 
-        "companyName": "Zenoti", 
-        "ss_size": 0
+        "ss_size": 983541, 
+        "url": "https://www.zenoti.com/careers.html"
     }, 
     "2980": {
+        "companyName": "Zenefits", 
         "count_intern": 0, 
         "idVal": "2980", 
         "count_2019": 0, 
-        "companyName": "Zenefits", 
-        "ss_size": 0
+        "ss_size": 86987, 
+        "url": "https://boards.greenhouse.io/zenefits"
     }, 
     "2987": {
-        "count_intern": 0, 
+        "companyName": "Zhihu", 
+        "count_intern": 53, 
         "idVal": "2987", 
         "count_2019": 0, 
-        "companyName": "Zhihu", 
-        "ss_size": 0
+        "ss_size": 118940, 
+        "url": "https://www.google.com/search?&q=Zhihu+internships&btnI"
     }, 
     "2986": {
-        "count_intern": 0, 
+        "companyName": "Zeta Global", 
+        "count_intern": 1, 
         "idVal": "2986", 
         "count_2019": 0, 
-        "companyName": "Zeta Global", 
-        "ss_size": 0
+        "ss_size": 142436, 
+        "url": "http://jobs.jobvite.com/zetaglobal/"
     }, 
     "2985": {
-        "count_intern": 0, 
+        "companyName": "Zesty.Io", 
+        "count_intern": 5, 
         "idVal": "2985", 
         "count_2019": 0, 
-        "companyName": "Zesty.Io", 
-        "ss_size": 0
+        "ss_size": 119009, 
+        "url": "https://angel.co/company/zesty-io/jobs"
     }, 
     "2984": {
-        "count_intern": 0, 
-        "idVal": "2984", 
-        "count_2019": 0, 
         "companyName": "Zestmoney", 
-        "ss_size": 0
+        "count_intern": 71, 
+        "idVal": "2984", 
+        "count_2019": 2, 
+        "ss_size": 116771, 
+        "url": "https://www.google.com/search?&q=Zestmoney+internships&btnI"
     }, 
     "1018": {
         "companyName": "Abra", 
@@ -4177,12 +4288,12 @@
         "url": "https://www.google.com/search?&q=A9+internships&btnI"
     }, 
     "1010": {
-        "ss_size": 739465, 
-        "url": "https://6sense.com/careers/", 
         "companyName": "6Sense", 
         "count_intern": 0, 
         "idVal": "1010", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 739465, 
+        "url": "https://6sense.com/careers/"
     }, 
     "1011": {
         "companyName": "7-Eleven", 
@@ -4553,74 +4664,84 @@
         "url": "https://www.google.com/search?&q=Sidense+internships&btnI"
     }, 
     "2712": {
-        "count_intern": 0, 
+        "companyName": "Thyssenkrupp", 
+        "count_intern": 23, 
         "idVal": "2712", 
         "count_2019": 0, 
-        "companyName": "Thyssenkrupp", 
-        "ss_size": 0
+        "ss_size": 645611, 
+        "url": "https://karriere.thyssenkrupp.com/en/your-career/university-students/"
     }, 
     "2713": {
-        "count_intern": 0, 
-        "idVal": "2713", 
-        "count_2019": 0, 
         "companyName": "Ticketmaster", 
-        "ss_size": 0
+        "count_intern": 167, 
+        "idVal": "2713", 
+        "count_2019": 36, 
+        "ss_size": 1917024, 
+        "url": "https://jobs.ticketmaster.com/page/show/intern"
     }, 
     "2710": {
-        "count_intern": 0, 
+        "companyName": "Thumbtack", 
+        "count_intern": 1, 
         "idVal": "2710", 
         "count_2019": 0, 
-        "companyName": "Thumbtack", 
-        "ss_size": 0
+        "ss_size": 703189, 
+        "url": "https://www.thumbtack.com/careers/"
     }, 
     "2711": {
-        "count_intern": 0, 
-        "idVal": "2711", 
-        "count_2019": 0, 
         "companyName": "Thunkable", 
-        "ss_size": 0
+        "count_intern": 56, 
+        "idVal": "2711", 
+        "count_2019": 5, 
+        "ss_size": 123410, 
+        "url": "https://www.google.com/search?&q=Thunkable+internships&btnI"
     }, 
     "2716": {
-        "count_intern": 0, 
+        "companyName": "Tiki Corporation", 
+        "count_intern": 35, 
         "idVal": "2716", 
         "count_2019": 0, 
-        "companyName": "Tiki Corporation", 
-        "ss_size": 0
+        "ss_size": 200203, 
+        "url": "https://www.glassdoor.com/Jobs/Tiki-vn-internships-Ho-Chi-Minh-City-Jobs-EI_IE1333156.0,7_KO8,19_IL.20,36_IC2748023.htm"
     }, 
     "2717": {
-        "count_intern": 0, 
+        "companyName": "Timber", 
+        "count_intern": 71, 
         "idVal": "2717", 
         "count_2019": 0, 
-        "companyName": "Timber", 
-        "ss_size": 0
+        "ss_size": 109845, 
+        "url": "https://www.google.com/search?&q=Timber+internships&btnI"
     }, 
     "2714": {
+        "companyName": "Tidepool", 
         "count_intern": 0, 
         "idVal": "2714", 
         "count_2019": 0, 
-        "companyName": "Tidepool", 
-        "ss_size": 0
+        "ss_size": 24388, 
+        "url": "https://www.tidepool.org/jobs"
     }, 
     "2715": {
-        "count_intern": 0, 
+        "companyName": "Tiger Global Management", 
+        "count_intern": 48, 
         "idVal": "2715", 
         "count_2019": 0, 
-        "companyName": "Tiger Global Management", 
-        "ss_size": 0
+        "ss_size": 121167, 
+        "url": "https://www.google.com/search?&q=Tiger+Global+Management+internships&btnI"
     }, 
     "2718": {
-        "count_intern": 0, 
+        "companyName": "Timeplay", 
+        "count_intern": 56, 
         "idVal": "2718", 
         "count_2019": 0, 
-        "companyName": "Timeplay", 
-        "ss_size": 0
+        "ss_size": 110206, 
+        "url": "https://www.google.com/search?&q=Timeplay+internships&btnI"
     }, 
     "2719": {
-        "count_intern": 0, 
+        "companyName": "Timescale", 
+        "count_intern": 94, 
         "idVal": "2719", 
         "count_2019": 0, 
-        "companyName": "Timescale", 
-        "ss_size": 0
+        "ss_size": 122639, 
+        "url": "https://www.google.com/search?&q=Timescale+internships&btnI"
     }, 
     "1832": {
         "companyName": "Index Ventures", 
@@ -5199,11 +5320,12 @@
         "url": "https://www.google.com/search?&q=Meitu+internships&btnI"
     }, 
     "3010": {
-        "count_intern": 0, 
+        "companyName": "Zynga", 
+        "count_intern": 6, 
         "idVal": "3010", 
         "count_2019": 0, 
-        "companyName": "Zynga", 
-        "ss_size": 0
+        "ss_size": 44451, 
+        "url": "https://www.zynga.com/job-listing-category/students-new-grads-interns/"
     }, 
     "2065": {
         "companyName": "Meituan.Com", 
@@ -5246,44 +5368,44 @@
         "url": "https://www.builtinchicago.org/company/4degrees"
     }, 
     "1006": {
-        "ss_size": 818432, 
-        "url": "https://360insights.com/about-us/careers-jobs-at-360insights/", 
         "companyName": "360Insights", 
         "count_intern": 0, 
         "idVal": "1006", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 818432, 
+        "url": "https://360insights.com/about-us/careers-jobs-at-360insights/"
     }, 
     "1005": {
-        "ss_size": 130537, 
-        "url": "https://www.crunchbase.com/organization/360-enterprise-security-group", 
         "companyName": "360 Enterprise Security Group", 
         "count_intern": 0, 
         "idVal": "1005", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 130537, 
+        "url": "https://www.crunchbase.com/organization/360-enterprise-security-group"
     }, 
     "1004": {
-        "url": "https://www.23andme.com/careers/", 
-        "ss_size": 1666311, 
         "companyName": "23Andme", 
         "count_intern": 7, 
         "idVal": "1004", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 1666311, 
+        "url": "https://www.23andme.com/careers/"
     }, 
     "1003": {
-        "url": "https://www.21cfcareers.com/YourResources/Internships", 
-        "ss_size": 744343, 
         "companyName": "21St Century Fox", 
         "count_intern": 5, 
         "idVal": "1003", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 744343, 
+        "url": "https://www.21cfcareers.com/YourResources/Internships"
     }, 
     "1002": {
-        "url": "https://1010data.com/company/careers/internship-program/", 
-        "ss_size": 667693, 
         "companyName": "1010Data", 
         "count_intern": 6, 
         "idVal": "1002", 
-        "count_2019": 1
+        "count_2019": 1, 
+        "ss_size": 667693, 
+        "url": "https://1010data.com/company/careers/internship-program/"
     }, 
     "1227": {
         "companyName": "Blue Fever", 
@@ -5366,81 +5488,92 @@
         "url": "https://bluemedora.com/about/careers/"
     }, 
     "2882": {
-        "count_intern": 0, 
+        "companyName": "Visio Financial Services", 
+        "count_intern": 60, 
         "idVal": "2882", 
         "count_2019": 0, 
-        "companyName": "Visio Financial Services", 
-        "ss_size": 0
+        "ss_size": 119425, 
+        "url": "https://www.google.com/search?&q=Visio+Financial+Services+internships&btnI"
     }, 
     "2883": {
-        "count_intern": 0, 
+        "companyName": "Vision Critical", 
+        "count_intern": 3, 
         "idVal": "2883", 
         "count_2019": 0, 
-        "companyName": "Vision Critical", 
-        "ss_size": 0
+        "ss_size": 1217563, 
+        "url": "https://www.visioncritical.com/careers"
     }, 
     "2880": {
+        "companyName": "Visenze", 
         "count_intern": 0, 
         "idVal": "2880", 
-        "count_2019": 0, 
-        "companyName": "Visenze", 
-        "ss_size": 0
+        "count_2019": 58, 
+        "ss_size": 1406375, 
+        "url": "https://www.visenze.com/careers"
     }, 
     "2881": {
-        "count_intern": 0, 
-        "idVal": "2881", 
-        "count_2019": 0, 
         "companyName": "Visier", 
-        "ss_size": 0
+        "count_intern": 8, 
+        "idVal": "2881", 
+        "count_2019": 18, 
+        "ss_size": 662786, 
+        "url": "https://www.visier.com/about/careers/students/"
     }, 
     "2886": {
-        "count_intern": 0, 
+        "companyName": "Vivint Smart Home", 
+        "count_intern": 73, 
         "idVal": "2886", 
         "count_2019": 0, 
-        "companyName": "Vivint Smart Home", 
-        "ss_size": 0
+        "ss_size": 123812, 
+        "url": "https://www.google.com/search?&q=Vivint+Smart+Home+internships&btnI"
     }, 
     "2887": {
+        "companyName": "Vlocity", 
         "count_intern": 0, 
         "idVal": "2887", 
         "count_2019": 0, 
-        "companyName": "Vlocity", 
-        "ss_size": 0
+        "ss_size": 373197, 
+        "url": "https://vlocity.com/company/careers"
     }, 
     "2884": {
+        "companyName": "Vistex", 
         "count_intern": 0, 
         "idVal": "2884", 
         "count_2019": 0, 
-        "companyName": "Vistex", 
-        "ss_size": 0
+        "ss_size": 1215154, 
+        "url": "https://www.vistex.com/careers/"
     }, 
     "2885": {
-        "count_intern": 0, 
+        "companyName": "Visunex Medical Systems", 
+        "count_intern": 43, 
         "idVal": "2885", 
         "count_2019": 0, 
-        "companyName": "Visunex Medical Systems", 
-        "ss_size": 0
+        "ss_size": 120232, 
+        "url": "https://www.google.com/search?&q=Visunex+Medical+Systems+internships&btnI"
     }, 
     "2888": {
-        "count_intern": 0, 
+        "companyName": "Vmware", 
+        "count_intern": 7, 
         "idVal": "2888", 
         "count_2019": 0, 
-        "companyName": "Vmware", 
-        "ss_size": 0
+        "ss_size": 457849, 
+        "url": "https://careers.vmware.com/category/internship-jobs/1567/22673/1"
     }, 
     "2889": {
+        "companyName": "Voalte", 
         "count_intern": 0, 
         "idVal": "2889", 
         "count_2019": 0, 
-        "companyName": "Voalte", 
-        "ss_size": 0
+        "ss_size": 890576, 
+        "url": "https://www.voalte.com/careers"
     }, 
     "2742": {
+        "companyName": "Transfix", 
         "count_intern": 0, 
         "idVal": "2742", 
         "count_2019": 0, 
-        "companyName": "Transfix", 
-        "ss_size": 0
+        "ss_size": 1143812, 
+        "url": "https://transfix.io/careers/"
     }, 
     "2239": {
         "companyName": "Optimizely", 
@@ -5683,74 +5816,84 @@
         "url": "https://corporate.shopback.com/"
     }, 
     "2709": {
-        "count_intern": 0, 
+        "companyName": "Thrivehive", 
+        "count_intern": 55, 
         "idVal": "2709", 
         "count_2019": 0, 
-        "companyName": "Thrivehive", 
-        "ss_size": 0
+        "ss_size": 1292616, 
+        "url": "https://thrivehive.com/thrive-summer-intern/"
     }, 
     "2708": {
-        "count_intern": 0, 
-        "idVal": "2708", 
-        "count_2019": 0, 
         "companyName": "Thredup", 
-        "ss_size": 0
+        "count_intern": 23, 
+        "idVal": "2708", 
+        "count_2019": 1, 
+        "ss_size": 384135, 
+        "url": "https://www.thredup.com/p/careers"
     }, 
     "2705": {
-        "count_intern": 0, 
+        "companyName": "Thousandeyes", 
+        "count_intern": 2, 
         "idVal": "2705", 
         "count_2019": 0, 
-        "companyName": "Thousandeyes", 
-        "ss_size": 0
+        "ss_size": 1029399, 
+        "url": "https://www.thousandeyes.com/careers"
     }, 
     "2704": {
+        "companyName": "Thoughtworks ", 
         "count_intern": 0, 
         "idVal": "2704", 
-        "count_2019": 0, 
-        "companyName": "Thoughtworks ", 
-        "ss_size": 0
+        "count_2019": 13, 
+        "ss_size": 316400, 
+        "url": "https://www.thoughtworks.com/careers/us"
     }, 
     "2707": {
+        "companyName": "Threatmetrix", 
         "count_intern": 0, 
         "idVal": "2707", 
-        "count_2019": 0, 
-        "companyName": "Threatmetrix", 
-        "ss_size": 0
+        "count_2019": 1, 
+        "ss_size": 1037368, 
+        "url": "https://www.threatmetrix.com/careers/"
     }, 
     "2706": {
+        "companyName": "Threadloom", 
         "count_intern": 0, 
         "idVal": "2706", 
         "count_2019": 0, 
-        "companyName": "Threadloom", 
-        "ss_size": 0
+        "ss_size": 132960, 
+        "url": "https://angel.co/company/threadloom/jobs"
     }, 
     "2701": {
-        "count_intern": 0, 
+        "companyName": "Thomson Reuters", 
+        "count_intern": 52, 
         "idVal": "2701", 
         "count_2019": 0, 
-        "companyName": "Thomson Reuters", 
-        "ss_size": 0
+        "ss_size": 5290, 
+        "url": "https://www.thomsonreuters.com/en/careers/graduates-interns/internships.html"
     }, 
     "2700": {
-        "count_intern": 0, 
+        "companyName": "Thistle", 
+        "count_intern": 54, 
         "idVal": "2700", 
         "count_2019": 0, 
-        "companyName": "Thistle", 
-        "ss_size": 0
+        "ss_size": 109761, 
+        "url": "https://www.google.com/search?&q=Thistle+internships&btnI"
     }, 
     "2703": {
-        "count_intern": 0, 
+        "companyName": "Thoughtwire", 
+        "count_intern": 52, 
         "idVal": "2703", 
         "count_2019": 0, 
-        "companyName": "Thoughtwire", 
-        "ss_size": 0
+        "ss_size": 121915, 
+        "url": "https://www.google.com/search?&q=Thoughtwire+internships&btnI"
     }, 
     "2702": {
+        "companyName": "Thoughtspot", 
         "count_intern": 0, 
         "idVal": "2702", 
         "count_2019": 0, 
-        "companyName": "Thoughtspot", 
-        "ss_size": 0
+        "ss_size": 836070, 
+        "url": "https://www.thoughtspot.com/careers"
     }, 
     "1829": {
         "companyName": "Improbable", 
@@ -6097,74 +6240,84 @@
         "url": "https://www.linkedin.com/company/glue-together"
     }, 
     "3005": {
+        "companyName": "Zume Inc.", 
         "count_intern": 0, 
         "idVal": "3005", 
         "count_2019": 0, 
-        "companyName": "Zume Inc.", 
-        "ss_size": 0
+        "ss_size": 124518, 
+        "url": "https://boards.greenhouse.io/zume"
     }, 
     "3004": {
-        "count_intern": 0, 
+        "companyName": "Zulily", 
+        "count_intern": 1, 
         "idVal": "3004", 
         "count_2019": 0, 
-        "companyName": "Zulily", 
-        "ss_size": 0
+        "ss_size": 2023285, 
+        "url": "https://www.zulily.com/careers"
     }, 
     "3007": {
+        "companyName": "Zumper", 
         "count_intern": 0, 
         "idVal": "3007", 
         "count_2019": 0, 
-        "companyName": "Zumper", 
-        "ss_size": 0
+        "ss_size": 967611, 
+        "url": "https://www.zumper.com/jobs"
     }, 
     "3006": {
-        "count_intern": 0, 
+        "companyName": "Zume Pizza", 
+        "count_intern": 51, 
         "idVal": "3006", 
         "count_2019": 0, 
-        "companyName": "Zume Pizza", 
-        "ss_size": 0
+        "ss_size": 112424, 
+        "url": "https://www.google.com/search?&q=Zume+Pizza+internships&btnI"
     }, 
     "3001": {
+        "companyName": "Zoox", 
         "count_intern": 0, 
         "idVal": "3001", 
         "count_2019": 0, 
-        "companyName": "Zoox", 
-        "ss_size": 0
+        "ss_size": 54402, 
+        "url": "https://jobs.lever.co/zoox?"
     }, 
     "3000": {
-        "count_intern": 0, 
+        "companyName": "Zoomdata", 
+        "count_intern": 55, 
         "idVal": "3000", 
         "count_2019": 0, 
-        "companyName": "Zoomdata", 
-        "ss_size": 0
+        "ss_size": 118728, 
+        "url": "https://www.google.com/search?&q=Zoomdata+internships&btnI"
     }, 
     "3003": {
-        "count_intern": 0, 
+        "companyName": "Zugata", 
+        "count_intern": 69, 
         "idVal": "3003", 
         "count_2019": 0, 
-        "companyName": "Zugata", 
-        "ss_size": 0
+        "ss_size": 121403, 
+        "url": "https://www.google.com/search?&q=Zugata+internships&btnI"
     }, 
     "3002": {
+        "companyName": "Zscaler", 
         "count_intern": 0, 
         "idVal": "3002", 
         "count_2019": 0, 
-        "companyName": "Zscaler", 
-        "ss_size": 0
+        "ss_size": 75781, 
+        "url": "https://jobs.jobvite.com/zscaler"
     }, 
     "3009": {
+        "companyName": "Zymergen", 
         "count_intern": 0, 
         "idVal": "3009", 
         "count_2019": 0, 
-        "companyName": "Zymergen", 
-        "ss_size": 0
+        "ss_size": 54318, 
+        "url": "https://www.zuora.com/about/careers/"
     }, 
     "3008": {
+        "companyName": "Zuora", 
         "count_intern": 0, 
         "idVal": "3008", 
         "count_2019": 0, 
-        "companyName": "Zuora", 
-        "ss_size": 0
+        "ss_size": 54318, 
+        "url": "https://www.zuora.com/about/careers/"
     }, 
     "1588": {
         "companyName": "Equityzen", 
@@ -6431,74 +6584,84 @@
         "url": "https://www.google.com/search?&q=Renovo+Auto+internships&btnI"
     }, 
     "2899": {
+        "companyName": "Vsco", 
         "count_intern": 0, 
         "idVal": "2899", 
         "count_2019": 0, 
-        "companyName": "Vsco", 
-        "ss_size": 0
+        "ss_size": 1580442, 
+        "url": "https://vsco.co/about/careers"
     }, 
     "2898": {
+        "companyName": "Voxy", 
         "count_intern": 0, 
         "idVal": "2898", 
         "count_2019": 0, 
-        "companyName": "Voxy", 
-        "ss_size": 0
+        "ss_size": 1170391, 
+        "url": "https://voxy.com/about-us/careers/"
     }, 
     "2895": {
-        "count_intern": 0, 
-        "idVal": "2895", 
-        "count_2019": 0, 
         "companyName": "Volley", 
-        "ss_size": 0
+        "count_intern": 66, 
+        "idVal": "2895", 
+        "count_2019": 1, 
+        "ss_size": 121638, 
+        "url": "https://www.google.com/search?&q=Volley+internships&btnI"
     }, 
     "2894": {
-        "count_intern": 0, 
-        "idVal": "2894", 
-        "count_2019": 0, 
         "companyName": "Volkswagen Group", 
-        "ss_size": 0
+        "count_intern": 66, 
+        "idVal": "2894", 
+        "count_2019": 2, 
+        "ss_size": 121204, 
+        "url": "https://www.google.com/search?&q=Volkswagen+Group+internships&btnI"
     }, 
     "2897": {
-        "count_intern": 0, 
+        "companyName": "Voxel8", 
+        "count_intern": 48, 
         "idVal": "2897", 
         "count_2019": 0, 
-        "companyName": "Voxel8", 
-        "ss_size": 0
+        "ss_size": 114518, 
+        "url": "https://www.google.com/search?&q=Voxel8+internships&btnI"
     }, 
     "2896": {
+        "companyName": "Vox Media", 
         "count_intern": 0, 
         "idVal": "2896", 
         "count_2019": 0, 
-        "companyName": "Vox Media", 
-        "ss_size": 0
+        "ss_size": 888214, 
+        "url": "https://www.voxmedia.com/pages/careers-jobs"
     }, 
     "2891": {
-        "count_intern": 0, 
+        "companyName": "Vodafone", 
+        "count_intern": 4, 
         "idVal": "2891", 
         "count_2019": 0, 
-        "companyName": "Vodafone", 
-        "ss_size": 0
+        "ss_size": 455870, 
+        "url": "https://careers.vodafone.com/early-careers"
     }, 
     "2890": {
-        "count_intern": 0, 
+        "companyName": "Vocera Communications", 
+        "count_intern": 50, 
         "idVal": "2890", 
         "count_2019": 0, 
-        "companyName": "Vocera Communications", 
-        "ss_size": 0
+        "ss_size": 125866, 
+        "url": "https://www.google.com/search?&q=Vocera+Communications+internships&btnI"
     }, 
     "2893": {
-        "count_intern": 0, 
+        "companyName": "Vokal", 
+        "count_intern": 61, 
         "idVal": "2893", 
         "count_2019": 0, 
-        "companyName": "Vokal", 
-        "ss_size": 0
+        "ss_size": 106310, 
+        "url": "https://www.google.com/search?&q=Vokal+internships&btnI"
     }, 
     "2892": {
-        "count_intern": 0, 
+        "companyName": "Voicebox Technologies", 
+        "count_intern": 58, 
         "idVal": "2892", 
         "count_2019": 0, 
-        "companyName": "Voicebox Technologies", 
-        "ss_size": 0
+        "ss_size": 129931, 
+        "url": "https://www.google.com/search?&q=Voicebox+Technologies+internships&btnI"
     }, 
     "1454": {
         "companyName": "Crowdfunder", 
@@ -6757,82 +6920,84 @@
         "url": "https://www.reactive-robotics.com/career/"
     }, 
     "2778": {
-        "count_intern": 0, 
-        "idVal": "2778", 
-        "count_2019": 0, 
         "companyName": "Two Sigma", 
-        "ss_size": 0
+        "count_intern": 61, 
+        "idVal": "2778", 
+        "count_2019": 7, 
+        "ss_size": 78155, 
+        "url": "https://internships.twosigma.com/internship"
     }, 
     "2779": {
-        "count_intern": 0, 
+        "companyName": "Typeform", 
+        "count_intern": 44, 
         "idVal": "2779", 
         "count_2019": 0, 
-        "companyName": "Typeform", 
-        "ss_size": 0
+        "ss_size": 40265, 
+        "url": "https://www.typeform.com/careers/"
     }, 
     "2770": {
+        "companyName": "Tunespeak", 
         "count_intern": 0, 
         "idVal": "2770", 
         "count_2019": 0, 
-        "companyName": "Tunespeak", 
-        "ss_size": 0
+        "ss_size": 569840, 
+        "url": "https://www.tunespeak.com/jobs"
     }, 
     "2771": {
-        "count_intern": 0, 
+        "companyName": "Turo", 
+        "count_intern": 2, 
         "idVal": "2771", 
         "count_2019": 0, 
-        "companyName": "Turo", 
-        "ss_size": 0
+        "ss_size": 1671981, 
+        "url": "https://turo.com/en-us/jobs"
     }, 
     "2772": {
-        "count_intern": 0, 
+        "companyName": "Turvo", 
+        "count_intern": 55, 
         "idVal": "2772", 
         "count_2019": 0, 
-        "companyName": "Turvo", 
-        "ss_size": 0
+        "ss_size": 102687, 
+        "url": "https://www.google.com/search?&q=Turvo+internships&btnI"
     }, 
     "2773": {
+        "companyName": "Tusimple", 
         "count_intern": 0, 
         "idVal": "2773", 
-        "count_2019": 0, 
-        "companyName": "Tusimple", 
-        "ss_size": 0
+        "count_2019": 26, 
+        "ss_size": 1469119, 
+        "url": "https://www.tusimple.com/careers/"
     }, 
     "2774": {
-        "count_intern": 0, 
+        "companyName": "Tutorful", 
+        "count_intern": 45, 
         "idVal": "2774", 
         "count_2019": 0, 
-        "companyName": "Tutorful", 
-        "ss_size": 0
+        "ss_size": 113355, 
+        "url": "https://www.google.com/search?&q=Tutorful+internships&btnI"
     }, 
     "2775": {
+        "companyName": "Twilio", 
         "count_intern": 0, 
         "idVal": "2775", 
-        "count_2019": 0, 
-        "companyName": "Twilio", 
-        "ss_size": 0
+        "count_2019": 2, 
+        "ss_size": 128265, 
+        "url": "https://www.twilio.com/company/jobs"
     }, 
     "2776": {
-        "count_intern": 0, 
-        "idVal": "2776", 
-        "count_2019": 0, 
         "companyName": "Twitch", 
-        "ss_size": 0
+        "count_intern": 3, 
+        "idVal": "2776", 
+        "count_2019": 3, 
+        "ss_size": 305624, 
+        "url": "https://www.twitch.tv/jobs/internships/"
     }, 
     "2777": {
-        "count_intern": 0, 
-        "idVal": "2777", 
-        "count_2019": 0, 
         "companyName": "Twitter", 
-        "ss_size": 0
-    }, 
-    "1102": {
-        "companyName": "Appirio", 
-        "count_intern": 0, 
-        "idVal": "1102", 
-        "count_2019": 0, 
-        "ss_size": 531103, 
-        "url": "https://appirio.com/careers"
+        "count_intern": 47, 
+        "idVal": "2777", 
+        "count_2019": 8, 
+        "ss_size": 1005837, 
+        "url": "https://careers.twitter.com/en/university.html"
     }, 
     "1858": {
         "companyName": "Intertrust Technologies", 
@@ -7307,32 +7472,36 @@
         "url": "https://www.esentire.com/company/careers/"
     }, 
     "2954": {
-        "count_intern": 0, 
+        "companyName": "Xero", 
+        "count_intern": 87, 
         "idVal": "2954", 
         "count_2019": 0, 
-        "companyName": "Xero", 
-        "ss_size": 0
+        "ss_size": 112256, 
+        "url": "https://www.google.com/search?&q=Xero+internships&btnI"
     }, 
     "2955": {
-        "count_intern": 0, 
+        "companyName": "Xerox", 
+        "count_intern": 27, 
         "idVal": "2955", 
         "count_2019": 0, 
-        "companyName": "Xerox", 
-        "ss_size": 0
+        "ss_size": 786478, 
+        "url": "https://www.xerox.com/en-us/jobs/internship"
     }, 
     "2956": {
-        "count_intern": 0, 
+        "companyName": "Xevo", 
+        "count_intern": 59, 
         "idVal": "2956", 
         "count_2019": 0, 
-        "companyName": "Xevo", 
-        "ss_size": 0
+        "ss_size": 109243, 
+        "url": "https://www.google.com/search?&q=Xevo+internships&btnI"
     }, 
     "2957": {
-        "count_intern": 0, 
+        "companyName": "Xiaomi", 
+        "count_intern": 90, 
         "idVal": "2957", 
         "count_2019": 0, 
-        "companyName": "Xiaomi", 
-        "ss_size": 0
+        "ss_size": 119041, 
+        "url": "https://www.google.com/search?&q=Xiaomi+internships&btnI"
     }, 
     "1599": {
         "companyName": "Etsy", 
@@ -7351,18 +7520,20 @@
         "url": "https://www.etradecareers.com/"
     }, 
     "2952": {
-        "count_intern": 0, 
+        "companyName": "Xcalar", 
+        "count_intern": 48, 
         "idVal": "2952", 
         "count_2019": 0, 
-        "companyName": "Xcalar", 
-        "ss_size": 0
+        "ss_size": 110635, 
+        "url": "https://www.google.com/search?&q=Xcalar+internships&btnI"
     }, 
     "2953": {
-        "count_intern": 0, 
+        "companyName": "Xenio Systems", 
+        "count_intern": 1, 
         "idVal": "2953", 
         "count_2019": 0, 
-        "companyName": "Xenio Systems", 
-        "ss_size": 0
+        "ss_size": 261949, 
+        "url": "http://www.xeniosystems.com/careers/"
     }, 
     "1025": {
         "companyName": "Accruent", 
@@ -7397,20 +7568,20 @@
         "url": "https://www.google.com/search?&q=Achievers+internships&btnI"
     }, 
     "1021": {
-        "ss_size": 119175, 
-        "url": "https://www.google.com/search?&q=Accedian+Networks+internships&btnI", 
         "companyName": "Accedian Networks", 
         "count_intern": 58, 
         "idVal": "1021", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 119175, 
+        "url": "https://www.google.com/search?&q=Accedian+Networks+internships&btnI"
     }, 
     "1020": {
-        "ss_size": 113115, 
-        "url": "https://www.google.com/search?&q=Acalvio+Technologies+internships&btnI", 
         "companyName": "Acalvio Technologies", 
         "count_intern": 60, 
         "idVal": "1020", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 113115, 
+        "url": "https://www.google.com/search?&q=Acalvio+Technologies+internships&btnI"
     }, 
     "1023": {
         "companyName": "Accenture", 
@@ -7812,13 +7983,13 @@
         "ss_size": 121081, 
         "url": "https://www.google.com/search?&q=Rackware+internships&btnI"
     }, 
-    "2388": {
-        "companyName": "Quotient Technology", 
-        "count_intern": 1, 
-        "idVal": "2388", 
+    "1102": {
+        "companyName": "Appirio", 
+        "count_intern": 0, 
+        "idVal": "1102", 
         "count_2019": 0, 
-        "ss_size": 91078, 
-        "url": "https://jobs.jobvite.com/quotient"
+        "ss_size": 531103, 
+        "url": "https://appirio.com/careers"
     }, 
     "1451": {
         "companyName": "Crossbeam", 
@@ -7829,18 +8000,20 @@
         "url": "https://crossbeam.workable.com/"
     }, 
     "2769": {
-        "count_intern": 0, 
+        "companyName": "Tumblr Inc.", 
+        "count_intern": 1, 
         "idVal": "2769", 
         "count_2019": 0, 
-        "companyName": "Tumblr Inc.", 
-        "ss_size": 0
+        "ss_size": 1591886, 
+        "url": "https://www.tumblr.com/jobs"
     }, 
     "2768": {
-        "count_intern": 0, 
+        "companyName": "Tulip Interfaces", 
+        "count_intern": 55, 
         "idVal": "2768", 
         "count_2019": 0, 
-        "companyName": "Tulip Interfaces", 
-        "ss_size": 0
+        "ss_size": 119061, 
+        "url": "https://www.google.com/search?&q=Tulip+Interfaces+internships&btnI"
     }, 
     "1452": {
         "companyName": "Crossover Health", 
@@ -7851,60 +8024,68 @@
         "url": "https://jobs.jobvite.com/crossover-health/jobs/"
     }, 
     "2763": {
-        "count_intern": 0, 
+        "companyName": "Trustwork", 
+        "count_intern": 59, 
         "idVal": "2763", 
         "count_2019": 0, 
-        "companyName": "Trustwork", 
-        "ss_size": 0
+        "ss_size": 114553, 
+        "url": "https://www.google.com/search?&q=Trustwork+internships&btnI"
     }, 
     "2762": {
-        "count_intern": 0, 
+        "companyName": "Trustwave Holdings", 
+        "count_intern": 6, 
         "idVal": "2762", 
         "count_2019": 0, 
-        "companyName": "Trustwave Holdings", 
-        "ss_size": 0
+        "ss_size": 492442, 
+        "url": "https://jobs.jobvite.com/trustwave/p/students"
     }, 
     "2761": {
-        "count_intern": 0, 
-        "idVal": "2761", 
-        "count_2019": 0, 
         "companyName": "Trusted Key", 
-        "ss_size": 0
+        "count_intern": 69, 
+        "idVal": "2761", 
+        "count_2019": 4, 
+        "ss_size": 122680, 
+        "url": "https://www.google.com/search?&q=Trusted+Key+internships&btnI"
     }, 
     "2760": {
+        "companyName": "Trusted Insight", 
         "count_intern": 0, 
         "idVal": "2760", 
         "count_2019": 0, 
-        "companyName": "Trusted Insight", 
-        "ss_size": 0
+        "ss_size": 80543, 
+        "url": "https://www.thetrustedinsight.com/investment-jobs/"
     }, 
     "2767": {
-        "count_intern": 0, 
-        "idVal": "2767", 
-        "count_2019": 0, 
         "companyName": "Tulane University", 
-        "ss_size": 0
+        "count_intern": 32, 
+        "idVal": "2767", 
+        "count_2019": 1, 
+        "ss_size": 102803, 
+        "url": "https://hiretulane.tulane.edu/career-advising/find-internships"
     }, 
     "2766": {
-        "count_intern": 0, 
-        "idVal": "2766", 
-        "count_2019": 0, 
         "companyName": "Tubular Labs", 
-        "ss_size": 0
+        "count_intern": 3, 
+        "idVal": "2766", 
+        "count_2019": 6, 
+        "ss_size": 522688, 
+        "url": "https://tubularlabs.com/about/careers/"
     }, 
     "2765": {
-        "count_intern": 0, 
+        "companyName": "Ttyl", 
+        "count_intern": 53, 
         "idVal": "2765", 
         "count_2019": 0, 
-        "companyName": "Ttyl", 
-        "ss_size": 0
+        "ss_size": 118524, 
+        "url": "https://www.google.com/search?&q=Ttyl+internships&btnI"
     }, 
     "2764": {
+        "companyName": "Trutag Technologies", 
         "count_intern": 0, 
         "idVal": "2764", 
         "count_2019": 0, 
-        "companyName": "Trutag Technologies", 
-        "ss_size": 0
+        "ss_size": 646670, 
+        "url": "https://trutags.com/careers/"
     }, 
     "1849": {
         "companyName": "Instacart", 
@@ -8227,11 +8408,12 @@
         "url": "https://careers.jpmorgan.com/us/en/students/programs"
     }, 
     "2858": {
+        "companyName": "Vend", 
         "count_intern": 0, 
         "idVal": "2858", 
         "count_2019": 0, 
-        "companyName": "Vend", 
-        "ss_size": 0
+        "ss_size": 620639, 
+        "url": "https://www.vendhq.com/careers"
     }, 
     "1799": {
         "companyName": "Housecanary", 
@@ -8250,82 +8432,92 @@
         "url": "https://www.housecallpro.com/careers/"
     }, 
     "2949": {
+        "companyName": "Wyzant", 
         "count_intern": 0, 
         "idVal": "2949", 
         "count_2019": 0, 
-        "companyName": "Wyzant", 
-        "ss_size": 0
+        "ss_size": 526348, 
+        "url": "https://www.wyzant.com/about/careers"
     }, 
     "2948": {
-        "count_intern": 0, 
+        "companyName": "Wyre", 
+        "count_intern": 54, 
         "idVal": "2948", 
         "count_2019": 0, 
-        "companyName": "Wyre", 
-        "ss_size": 0
+        "ss_size": 115689, 
+        "url": "https://www.google.com/search?&q=Wyre+internships&btnI"
     }, 
     "2947": {
-        "count_intern": 0, 
+        "companyName": "Wuxi Apptec", 
+        "count_intern": 54, 
         "idVal": "2947", 
         "count_2019": 0, 
-        "companyName": "Wuxi Apptec", 
-        "ss_size": 0
+        "ss_size": 125730, 
+        "url": "https://www.google.com/search?&q=Wuxi+Apptec+internships&btnI"
     }, 
     "2946": {
-        "count_intern": 0, 
+        "companyName": "Wp Engine", 
+        "count_intern": 5, 
         "idVal": "2946", 
         "count_2019": 0, 
-        "companyName": "Wp Engine", 
-        "ss_size": 0
+        "ss_size": 1230749, 
+        "url": "https://wpengine.careers/"
     }, 
     "2945": {
+        "companyName": "Worldquant", 
         "count_intern": 0, 
         "idVal": "2945", 
         "count_2019": 0, 
-        "companyName": "Worldquant", 
-        "ss_size": 0
+        "ss_size": 870301, 
+        "url": "https://www.worldquant.com/careers/"
     }, 
     "2944": {
-        "count_intern": 0, 
+        "companyName": "Workspan", 
+        "count_intern": 47, 
         "idVal": "2944", 
         "count_2019": 0, 
-        "companyName": "Workspan", 
-        "ss_size": 0
+        "ss_size": 110309, 
+        "url": "https://www.google.com/search?&q=Workspan+internships&btnI"
     }, 
     "2943": {
-        "count_intern": 0, 
+        "companyName": "Workindia", 
+        "count_intern": 65, 
         "idVal": "2943", 
         "count_2019": 0, 
-        "companyName": "Workindia", 
-        "ss_size": 0
+        "ss_size": 115967, 
+        "url": "https://www.google.com/search?&q=Workindia+internships&btnI"
     }, 
     "2942": {
-        "count_intern": 0, 
+        "companyName": "Workep", 
+        "count_intern": 4, 
         "idVal": "2942", 
         "count_2019": 0, 
-        "companyName": "Workep", 
-        "ss_size": 0
+        "ss_size": 1056047, 
+        "url": "https://www.sandiegocounty.gov/content/sdc/hr/InternshipsVolunteers0/"
     }, 
     "2941": {
-        "count_intern": 0, 
+        "companyName": "Workday", 
+        "count_intern": 7, 
         "idVal": "2941", 
         "count_2019": 0, 
-        "companyName": "Workday", 
-        "ss_size": 0
+        "ss_size": 67997, 
+        "url": "https://www.workday.com/en-us/company/careers/university-recruiting.html"
     }, 
     "2940": {
+        "companyName": "Workato", 
         "count_intern": 0, 
         "idVal": "2940", 
         "count_2019": 0, 
-        "companyName": "Workato", 
-        "ss_size": 0
+        "ss_size": 1424562, 
+        "url": "https://jobs.workato.com/"
     }, 
     "1050": {
-        "ss_size": 435368, 
-        "url": "https://aira.io/careers", 
         "companyName": "Aira Tech Corp", 
         "count_intern": 0, 
         "idVal": "1050", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 435368, 
+        "url": "https://aira.io/careers"
     }, 
     "1051": {
         "companyName": "Airbnb", 
@@ -8392,12 +8584,12 @@
         "url": "https://www.alation.com/careers/"
     }, 
     "1059": {
-        "ss_size": 475311, 
-        "url": "https://alchemistaccelerator.com/jobs/", 
         "companyName": "Alchemist Accelerator", 
         "count_intern": 4, 
         "idVal": "1059", 
-        "count_2019": 4
+        "count_2019": 4, 
+        "ss_size": 475311, 
+        "url": "https://alchemistaccelerator.com/jobs/"
     }, 
     "1696": {
         "companyName": "Gatik", 
@@ -9408,11 +9600,12 @@
         "url": "https://www.google.com/search?&q=Lynda+internships&btnI"
     }, 
     "2750": {
-        "count_intern": 0, 
+        "companyName": "Trigence", 
+        "count_intern": 41, 
         "idVal": "2750", 
         "count_2019": 0, 
-        "companyName": "Trigence", 
-        "ss_size": 0
+        "ss_size": 144121, 
+        "url": "https://www.glassdoor.com/Jobs/Trigent-Software-web-developer-intern-Mumbai-Jobs-EI_IE32091.0,16_KO17,37_IL.38,44_IC2851180.htm"
     }, 
     "2023": {
         "companyName": "Lytx", 
@@ -9439,88 +9632,100 @@
         "url": "https://careers.mlh.io/"
     }, 
     "2758": {
-        "count_intern": 0, 
+        "companyName": "Truemotion", 
+        "count_intern": 80, 
         "idVal": "2758", 
         "count_2019": 0, 
-        "companyName": "Truemotion", 
-        "ss_size": 0
+        "ss_size": 1184451, 
+        "url": "https://gotruemotion.com/careers/"
     }, 
     "2759": {
-        "count_intern": 0, 
-        "idVal": "2759", 
-        "count_2019": 0, 
         "companyName": "Trulia", 
-        "ss_size": 0
+        "count_intern": 1, 
+        "idVal": "2759", 
+        "count_2019": 2, 
+        "ss_size": 1280356, 
+        "url": "https://www.trulia.com/about/careers/"
     }, 
     "2978": {
-        "count_intern": 0, 
-        "idVal": "2978", 
-        "count_2019": 0, 
         "companyName": "Zendesk", 
-        "ss_size": 0
+        "count_intern": 26, 
+        "idVal": "2978", 
+        "count_2019": 4, 
+        "ss_size": 49859, 
+        "url": "https://jobs.zendesk.com/us/en/internships"
     }, 
     "2979": {
-        "count_intern": 0, 
+        "companyName": "Zendrive", 
+        "count_intern": 62, 
         "idVal": "2979", 
         "count_2019": 0, 
-        "companyName": "Zendrive", 
-        "ss_size": 0
+        "ss_size": 103641, 
+        "url": "https://www.google.com/search?&q=Zendrive+internships&btnI"
     }, 
     "2972": {
+        "companyName": "Zain Group", 
         "count_intern": 0, 
         "idVal": "2972", 
         "count_2019": 0, 
-        "companyName": "Zain Group", 
-        "ss_size": 0
+        "ss_size": 723576, 
+        "url": "https://careers.zain.com/careers/zaingroup/home.aspx"
     }, 
     "2973": {
+        "companyName": "Zaloni", 
         "count_intern": 0, 
         "idVal": "2973", 
-        "count_2019": 0, 
-        "companyName": "Zaloni", 
-        "ss_size": 0
+        "count_2019": 1, 
+        "ss_size": 741369, 
+        "url": "https://www.zaloni.com/about/careers/"
     }, 
     "2970": {
-        "count_intern": 0, 
+        "companyName": "Yugabyte", 
+        "count_intern": 67, 
         "idVal": "2970", 
         "count_2019": 0, 
-        "companyName": "Yugabyte", 
-        "ss_size": 0
+        "ss_size": 124892, 
+        "url": "https://www.google.com/search?&q=Yugabyte+internships&btnI"
     }, 
     "2971": {
+        "companyName": "Yumi", 
         "count_intern": 0, 
         "idVal": "2971", 
         "count_2019": 0, 
-        "companyName": "Yumi", 
-        "ss_size": 0
+        "ss_size": 130461, 
+        "url": "https://angel.co/company/yumi-1/jobs"
     }, 
     "2976": {
-        "count_intern": 0, 
+        "companyName": "Zayo", 
+        "count_intern": 62, 
         "idVal": "2976", 
         "count_2019": 0, 
-        "companyName": "Zayo", 
-        "ss_size": 0
+        "ss_size": 118163, 
+        "url": "https://www.google.com/search?&q=Zayo+internships&btnI"
     }, 
     "2977": {
+        "companyName": "Zebra Technologies", 
         "count_intern": 0, 
         "idVal": "2977", 
         "count_2019": 0, 
-        "companyName": "Zebra Technologies", 
-        "ss_size": 0
+        "ss_size": 1022539, 
+        "url": "https://www.zebra.com/us/en/about-zebra/careers.html"
     }, 
     "2974": {
-        "count_intern": 0, 
-        "idVal": "2974", 
-        "count_2019": 0, 
         "companyName": "Zanbato", 
-        "ss_size": 0
+        "count_intern": 51, 
+        "idVal": "2974", 
+        "count_2019": 6, 
+        "ss_size": 117374, 
+        "url": "https://www.google.com/search?&q=Zanbato+internships&btnI"
     }, 
     "2975": {
-        "count_intern": 0, 
-        "idVal": "2975", 
-        "count_2019": 0, 
         "companyName": "Zappos", 
-        "ss_size": 0
+        "count_intern": 76, 
+        "idVal": "2975", 
+        "count_2019": 1, 
+        "ss_size": 1060699, 
+        "url": "https://jobs.jobvite.com/zappos/jobs/internships?t=Intern"
     }, 
     "1043": {
         "companyName": "Affinity Solutions", 
@@ -9923,46 +10128,52 @@
         "url": "https://www.castlighthealth.com/jobs/"
     }, 
     "2756": {
-        "count_intern": 0, 
+        "companyName": "Troops.Ai", 
+        "count_intern": 3, 
         "idVal": "2756", 
         "count_2019": 0, 
-        "companyName": "Troops.Ai", 
-        "ss_size": 0
+        "ss_size": 169145, 
+        "url": "https://troops.ai/careers"
     }, 
     "2757": {
-        "count_intern": 0, 
+        "companyName": "Truecaller", 
+        "count_intern": 64, 
         "idVal": "2757", 
         "count_2019": 0, 
-        "companyName": "Truecaller", 
-        "ss_size": 0
+        "ss_size": 818482, 
+        "url": "https://truecaller.blog/tag/internship/"
     }, 
     "2754": {
-        "count_intern": 0, 
+        "companyName": "Tripadvisor", 
+        "count_intern": 25, 
         "idVal": "2754", 
         "count_2019": 0, 
-        "companyName": "Tripadvisor", 
-        "ss_size": 0
+        "ss_size": 1009262, 
+        "url": "https://careers.tripadvisor.com/"
     }, 
     "2755": {
+        "companyName": "Tripit", 
         "count_intern": 0, 
         "idVal": "2755", 
-        "count_2019": 0, 
-        "companyName": "Tripit", 
-        "ss_size": 0
+        "count_2019": 1, 
+        "ss_size": 59741, 
+        "url": "https://jobs.sap.com/search/?q=%22tripit%22&locationsearch=&locale=en_US"
     }, 
     "2752": {
-        "count_intern": 0, 
+        "companyName": "Trimble", 
+        "count_intern": 10, 
         "idVal": "2752", 
         "count_2019": 0, 
-        "companyName": "Trimble", 
-        "ss_size": 0
+        "ss_size": 368696, 
+        "url": "https://www.trimble.com/Careers/Students-and-Interns.aspx"
     }, 
     "2753": {
+        "companyName": "Trinet", 
         "count_intern": 0, 
         "idVal": "2753", 
         "count_2019": 0, 
-        "companyName": "Trinet", 
-        "ss_size": 0
+        "ss_size": 114158, 
+        "url": "https://www.trinet.com/about-us/careers"
     }, 
     "2022": {
         "companyName": "Lynx Network Group", 
@@ -9973,11 +10184,12 @@
         "url": "https://www.google.com/search?&q=Lynx+Network+Group+internships&btnI"
     }, 
     "2751": {
-        "count_intern": 0, 
+        "companyName": "Trillium Secure", 
+        "count_intern": 1, 
         "idVal": "2751", 
         "count_2019": 0, 
-        "companyName": "Trillium Secure", 
-        "ss_size": 0
+        "ss_size": 1380860, 
+        "url": "https://trilliumsecure.com/"
     }, 
     "1997": {
         "companyName": "Locus Robotics", 
@@ -10596,11 +10808,12 @@
         "url": "https://mappedin.com/careers/"
     }, 
     "2740": {
+        "companyName": "Transactis", 
         "count_intern": 0, 
         "idVal": "2740", 
         "count_2019": 0, 
-        "companyName": "Transactis", 
-        "ss_size": 0
+        "ss_size": 412721, 
+        "url": "https://www.transactis.com/careers/"
     }, 
     "2035": {
         "companyName": "Manthan", 
@@ -10619,18 +10832,20 @@
         "url": "https://www.mangohealth.com/careers.html"
     }, 
     "2745": {
-        "count_intern": 0, 
-        "idVal": "2745", 
-        "count_2019": 0, 
         "companyName": "Trax", 
-        "ss_size": 0
+        "count_intern": 61, 
+        "idVal": "2745", 
+        "count_2019": 2, 
+        "ss_size": 109125, 
+        "url": "https://www.google.com/search?&q=Trax+internships&btnI"
     }, 
     "2744": {
-        "count_intern": 0, 
+        "companyName": "Travelstart", 
+        "count_intern": 5, 
         "idVal": "2744", 
         "count_2019": 0, 
-        "companyName": "Travelstart", 
-        "ss_size": 0
+        "ss_size": 1020941, 
+        "url": "https://www.travelstart.co.za/lp/jobs/travelstart-careers"
     }, 
     "2031": {
         "companyName": "Maker Media", 
@@ -10649,18 +10864,20 @@
         "url": "https://careers.makemytrip.com/"
     }, 
     "2749": {
+        "companyName": "Trifacta", 
         "count_intern": 0, 
         "idVal": "2749", 
         "count_2019": 0, 
-        "companyName": "Trifacta", 
-        "ss_size": 0
+        "ss_size": 873661, 
+        "url": "https://www.trifacta.com/about-us/careers/"
     }, 
     "2748": {
-        "count_intern": 0, 
+        "companyName": "Trexo Robotics", 
+        "count_intern": 1, 
         "idVal": "2748", 
         "count_2019": 0, 
-        "companyName": "Trexo Robotics", 
-        "ss_size": 0
+        "ss_size": 805321, 
+        "url": "https://trexorobotics.com/who-we-are/"
     }, 
     "2039": {
         "companyName": "Marigold Health", 
@@ -10719,60 +10936,68 @@
         "url": "https://angel.co/company/lenda/jobs"
     }, 
     "2965": {
-        "count_intern": 0, 
+        "companyName": "Yext", 
+        "count_intern": 161, 
         "idVal": "2965", 
         "count_2019": 0, 
-        "companyName": "Yext", 
-        "ss_size": 0
+        "ss_size": 1004846, 
+        "url": "https://www.yext.com/careers/"
     }, 
     "2964": {
-        "count_intern": 0, 
+        "companyName": "Yewno", 
+        "count_intern": 51, 
         "idVal": "2964", 
         "count_2019": 0, 
-        "companyName": "Yewno", 
-        "ss_size": 0
+        "ss_size": 122931, 
+        "url": "https://www.google.com/search?&q=Yewno+internships&btnI"
     }, 
     "2967": {
-        "count_intern": 0, 
+        "companyName": "Yitu Technology", 
+        "count_intern": 54, 
         "idVal": "2967", 
         "count_2019": 0, 
-        "companyName": "Yitu Technology", 
-        "ss_size": 0
+        "ss_size": 141785, 
+        "url": "https://www.google.com/search?&q=Yitu+Technology+internships&btnI"
     }, 
     "2966": {
+        "companyName": "Yi Technology", 
         "count_intern": 0, 
         "idVal": "2966", 
         "count_2019": 0, 
-        "companyName": "Yi Technology", 
-        "ss_size": 0
+        "ss_size": 639658, 
+        "url": "https://www.yitechnology.com/join/index"
     }, 
     "2961": {
-        "count_intern": 0, 
+        "companyName": "Y Media Labs", 
+        "count_intern": 3, 
         "idVal": "2961", 
         "count_2019": 0, 
-        "companyName": "Y Media Labs", 
-        "ss_size": 0
+        "ss_size": 31109, 
+        "url": "https://ymedialabs.com/careers"
     }, 
     "2960": {
-        "count_intern": 0, 
+        "companyName": "Y Combinator", 
+        "count_intern": 44, 
         "idVal": "2960", 
         "count_2019": 0, 
-        "companyName": "Y Combinator", 
-        "ss_size": 0
+        "ss_size": 150105, 
+        "url": "https://blog.ycombinator.com/intern-at-a-yc-company-2019/"
     }, 
     "2963": {
-        "count_intern": 0, 
+        "companyName": "Yelp", 
+        "count_intern": 2, 
         "idVal": "2963", 
         "count_2019": 0, 
-        "companyName": "Yelp", 
-        "ss_size": 0
+        "ss_size": 1701617, 
+        "url": "https://www.yelp.com/careers/home"
     }, 
     "2962": {
-        "count_intern": 0, 
+        "companyName": "Yandex", 
+        "count_intern": 1, 
         "idVal": "2962", 
         "count_2019": 0, 
-        "companyName": "Yandex", 
-        "ss_size": 0
+        "ss_size": 724882, 
+        "url": "https://yandex.com/jobs/"
     }, 
     "1780": {
         "companyName": "Hewlett-Packard", 
@@ -10807,18 +11032,20 @@
         "url": "https://www.google.com/search?&q=Hitachi+internships&btnI"
     }, 
     "2969": {
-        "count_intern": 0, 
+        "companyName": "Youtube", 
+        "count_intern": 1, 
         "idVal": "2969", 
         "count_2019": 0, 
-        "companyName": "Youtube", 
-        "ss_size": 0
+        "ss_size": 1081849, 
+        "url": "https://www.youtube.com/jobs/"
     }, 
     "2968": {
-        "count_intern": 0, 
+        "companyName": "Yodlee", 
+        "count_intern": 14, 
         "idVal": "2968", 
         "count_2019": 0, 
-        "companyName": "Yodlee", 
-        "ss_size": 0
+        "ss_size": 960226, 
+        "url": "https://www.yodlee.com/company/careers/"
     }, 
     "1786": {
         "companyName": "Hologic", 
@@ -11597,18 +11824,20 @@
         "url": "https://intern.nasa.gov/"
     }, 
     "2648": {
-        "count_intern": 0, 
+        "companyName": "Tapjoy", 
+        "count_intern": 1, 
         "idVal": "2648", 
         "count_2019": 0, 
-        "companyName": "Tapjoy", 
-        "ss_size": 0
+        "ss_size": 219545, 
+        "url": "https://www.tapjoy.com/careers/"
     }, 
     "2649": {
-        "count_intern": 0, 
+        "companyName": "Taskrabbit", 
+        "count_intern": 1, 
         "idVal": "2649", 
         "count_2019": 0, 
-        "companyName": "Taskrabbit", 
-        "ss_size": 0
+        "ss_size": 2643454, 
+        "url": "https://www.taskrabbit.com/careers"
     }, 
     "2640": {
         "companyName": "Taboola", 
@@ -11635,11 +11864,12 @@
         "url": "https://www.talkdesk.com/careers/"
     }, 
     "2643": {
-        "count_intern": 0, 
+        "companyName": "Talkingdata", 
+        "count_intern": 2, 
         "idVal": "2643", 
         "count_2019": 0, 
-        "companyName": "Talkingdata", 
-        "ss_size": 0
+        "ss_size": 111952, 
+        "url": "https://www.talkingdata.com/about-us.jsp?languagetype=en_us"
     }, 
     "2644": {
         "companyName": "Talkiq", 
@@ -11650,25 +11880,28 @@
         "url": "https://www.google.com/search?&q=Talkiq+internships&btnI"
     }, 
     "2645": {
+        "companyName": "Tallyfy", 
         "count_intern": 0, 
         "idVal": "2645", 
         "count_2019": 0, 
-        "companyName": "Tallyfy", 
-        "ss_size": 0
+        "ss_size": 137650, 
+        "url": "https://tallyfy.com/careers/"
     }, 
     "2646": {
+        "companyName": "Tanium", 
         "count_intern": 0, 
         "idVal": "2646", 
         "count_2019": 0, 
-        "companyName": "Tanium", 
-        "ss_size": 0
+        "ss_size": 97679, 
+        "url": "https://www.tanium.com/careers/"
     }, 
     "2647": {
-        "count_intern": 0, 
+        "companyName": "Tapingo", 
+        "count_intern": 1, 
         "idVal": "2647", 
         "count_2019": 0, 
-        "companyName": "Tapingo", 
-        "ss_size": 0
+        "ss_size": 92610, 
+        "url": "https://home.tapingo.com/careers-hq"
     }, 
     "2002": {
         "companyName": "Logrhythm", 
@@ -11751,74 +11984,84 @@
         "url": "https://loon.com/careers"
     }, 
     "2910": {
-        "count_intern": 0, 
+        "companyName": "Wasabi Technologies", 
+        "count_intern": 3, 
         "idVal": "2910", 
         "count_2019": 0, 
-        "companyName": "Wasabi Technologies", 
-        "ss_size": 0
+        "ss_size": 578975, 
+        "url": "https://wasabi.com/careers/"
     }, 
     "2911": {
-        "count_intern": 0, 
+        "companyName": "Watcha", 
+        "count_intern": 72, 
         "idVal": "2911", 
         "count_2019": 0, 
-        "companyName": "Watcha", 
-        "ss_size": 0
+        "ss_size": 143890, 
+        "url": "https://www.google.com/search?&q=Watcha+internships&btnI"
     }, 
     "2912": {
-        "count_intern": 0, 
+        "companyName": "Wave", 
+        "count_intern": 73, 
         "idVal": "2912", 
         "count_2019": 0, 
-        "companyName": "Wave", 
-        "ss_size": 0
+        "ss_size": 126828, 
+        "url": "https://www.google.com/search?&q=Wave+internships&btnI"
     }, 
     "2913": {
-        "count_intern": 0, 
+        "companyName": "Wave Computing", 
+        "count_intern": 54, 
         "idVal": "2913", 
         "count_2019": 0, 
-        "companyName": "Wave Computing", 
-        "ss_size": 0
+        "ss_size": 119340, 
+        "url": "https://www.google.com/search?&q=Wave+Computing+internships&btnI"
     }, 
     "2914": {
-        "count_intern": 0, 
-        "idVal": "2914", 
-        "count_2019": 0, 
         "companyName": "Wayfair", 
-        "ss_size": 0
+        "count_intern": 17, 
+        "idVal": "2914", 
+        "count_2019": 1, 
+        "ss_size": 374553, 
+        "url": "https://www.wayfair.com/careers/students"
     }, 
     "2915": {
+        "companyName": "Wealthfront", 
         "count_intern": 0, 
         "idVal": "2915", 
         "count_2019": 0, 
-        "companyName": "Wealthfront", 
-        "ss_size": 0
+        "ss_size": 91621, 
+        "url": "https://www.wealthfront.com/careers"
     }, 
     "2916": {
+        "companyName": "Wealthsimple", 
         "count_intern": 0, 
         "idVal": "2916", 
         "count_2019": 0, 
-        "companyName": "Wealthsimple", 
-        "ss_size": 0
+        "ss_size": 1969713, 
+        "url": "https://www.wealthsimple.com/en-ca/about/work-with-us/"
     }, 
     "2917": {
-        "count_intern": 0, 
+        "companyName": "Weatherbug", 
+        "count_intern": 57, 
         "idVal": "2917", 
         "count_2019": 0, 
-        "companyName": "Weatherbug", 
-        "ss_size": 0
+        "ss_size": 121599, 
+        "url": "https://www.google.com/search?&q=Weatherbug+internships&btnI"
     }, 
     "2918": {
-        "count_intern": 0, 
+        "companyName": "Wechat", 
+        "count_intern": 69, 
         "idVal": "2918", 
         "count_2019": 0, 
-        "companyName": "Wechat", 
-        "ss_size": 0
+        "ss_size": 124439, 
+        "url": "https://www.google.com/search?&q=Wechat+internships&btnI"
     }, 
     "2919": {
-        "count_intern": 0, 
+        "companyName": "Wefit", 
+        "count_intern": 10, 
         "idVal": "2919", 
         "count_2019": 0, 
-        "companyName": "Wefit", 
-        "ss_size": 0
+        "ss_size": 86089, 
+        "url": "https://www.linkedin.com/jobs/view/wefit-internship-communications-feed-division-vancouver-wa-at-wilbur-ellis-244228166"
     }, 
     "1791": {
         "companyName": "Honeywell International", 
@@ -12109,18 +12352,20 @@
         "url": "https://www.abouthomeadvisor.com/careers/"
     }, 
     "2828": {
+        "companyName": "Unravel Data", 
         "count_intern": 0, 
         "idVal": "2828", 
         "count_2019": 0, 
-        "companyName": "Unravel Data", 
-        "ss_size": 0
+        "ss_size": 13233, 
+        "url": "https://unraveldata.com/careers/"
     }, 
     "2829": {
-        "count_intern": 0, 
+        "companyName": "Unshackled Ventures", 
+        "count_intern": 1, 
         "idVal": "2829", 
         "count_2019": 0, 
-        "companyName": "Unshackled Ventures", 
-        "ss_size": 0
+        "ss_size": 67437, 
+        "url": "https://www.unshackledvc.com/"
     }, 
     "1526": {
         "companyName": "Dolby Laboratories", 
@@ -12131,60 +12376,68 @@
         "url": "https://www.dolby.com/us/en/about/careers/landing.html"
     }, 
     "2824": {
-        "count_intern": 0, 
+        "companyName": "University Of Texas At Austin", 
+        "count_intern": 23, 
         "idVal": "2824", 
         "count_2019": 0, 
-        "companyName": "University Of Texas At Austin", 
-        "ss_size": 0
+        "ss_size": 164397, 
+        "url": "https://cns.utexas.edu/career-services/students/find-jobs-internships"
     }, 
     "2825": {
-        "count_intern": 0, 
+        "companyName": "University Of Toronto", 
+        "count_intern": 15, 
         "idVal": "2825", 
         "count_2019": 0, 
-        "companyName": "University Of Toronto", 
-        "ss_size": 0
+        "ss_size": 183820, 
+        "url": "https://www.utoronto.ca/news/tags/internships"
     }, 
     "2826": {
-        "count_intern": 0, 
+        "companyName": "University Of Washington", 
+        "count_intern": 16, 
         "idVal": "2826", 
         "count_2019": 0, 
-        "companyName": "University Of Washington", 
-        "ss_size": 0
+        "ss_size": 68345, 
+        "url": "https://careers.uw.edu/internships/"
     }, 
     "2827": {
-        "count_intern": 0, 
+        "companyName": "Unmetric", 
+        "count_intern": 54, 
         "idVal": "2827", 
         "count_2019": 0, 
-        "companyName": "Unmetric", 
-        "ss_size": 0
+        "ss_size": 118950, 
+        "url": "https://www.google.com/search?&q=Unmetric+internships&btnI"
     }, 
     "2820": {
-        "count_intern": 0, 
-        "idVal": "2820", 
-        "count_2019": 0, 
         "companyName": "University Of Pennsylvania", 
-        "ss_size": 0
+        "count_intern": 11, 
+        "idVal": "2820", 
+        "count_2019": 6, 
+        "ss_size": 1153725, 
+        "url": "https://careerservices.upenn.edu/"
     }, 
     "2821": {
-        "count_intern": 0, 
-        "idVal": "2821", 
-        "count_2019": 0, 
         "companyName": "University Of Pittsburgh", 
-        "ss_size": 0
+        "count_intern": 32, 
+        "idVal": "2821", 
+        "count_2019": 5, 
+        "ss_size": 911753, 
+        "url": "https://www.studentaffairs.pitt.edu/cdpa/internships/"
     }, 
     "2822": {
-        "count_intern": 0, 
+        "companyName": "University Of South Florida", 
+        "count_intern": 10, 
         "idVal": "2822", 
         "count_2019": 0, 
-        "companyName": "University Of South Florida", 
-        "ss_size": 0
+        "ss_size": 1428825, 
+        "url": "https://www.usf.edu/campus-life/internships-student-employment.aspx"
     }, 
     "2823": {
-        "count_intern": 0, 
+        "companyName": "University Of Southern California", 
+        "count_intern": 16, 
         "idVal": "2823", 
         "count_2019": 0, 
-        "companyName": "University Of Southern California", 
-        "ss_size": 0
+        "ss_size": 110146, 
+        "url": "https://careers.usc.edu/career-pathfinder/internships/"
     }, 
     "1409": {
         "companyName": "Collegevine", 
@@ -12459,11 +12712,12 @@
         "url": "https://apttus.com/company/careers/"
     }, 
     "2854": {
-        "count_intern": 0, 
+        "companyName": "Vellore Institute Of Technology", 
+        "count_intern": 113, 
         "idVal": "2854", 
         "count_2019": 0, 
-        "companyName": "Vellore Institute Of Technology", 
-        "ss_size": 0
+        "ss_size": 127671, 
+        "url": "https://www.google.com/search?&q=Vellore+Institute+Of+Technology+internships&btnI"
     }, 
     "2345": {
         "companyName": "Presto", 
@@ -12714,74 +12968,84 @@
         "url": "https://team.mymusictaste.com/"
     }, 
     "2659": {
+        "companyName": "Teespring", 
         "count_intern": 0, 
         "idVal": "2659", 
         "count_2019": 0, 
-        "companyName": "Teespring", 
-        "ss_size": 0
+        "ss_size": 1836524, 
+        "url": "https://teespring.com/jobs"
     }, 
     "2658": {
+        "companyName": "Techstyle Fashion Group", 
         "count_intern": 0, 
         "idVal": "2658", 
         "count_2019": 0, 
-        "companyName": "Techstyle Fashion Group", 
-        "ss_size": 0
+        "ss_size": 616648, 
+        "url": "https://techstylefashiongroup.com/work-here/"
     }, 
     "2653": {
-        "count_intern": 0, 
+        "companyName": "Taunt", 
+        "count_intern": 17, 
         "idVal": "2653", 
         "count_2019": 0, 
-        "companyName": "Taunt", 
-        "ss_size": 0
+        "ss_size": 1164682, 
+        "url": "https://www.builtinseattle.com/company/taunt"
     }, 
     "2652": {
-        "count_intern": 0, 
+        "companyName": "Tata Technologies", 
+        "count_intern": 2, 
         "idVal": "2652", 
         "count_2019": 0, 
-        "companyName": "Tata Technologies", 
-        "ss_size": 0
+        "ss_size": 987816, 
+        "url": "https://www.tatatechnologies.com/us/careers/"
     }, 
     "2651": {
-        "count_intern": 0, 
+        "companyName": "Tata Power Renewable Energy", 
+        "count_intern": 4, 
         "idVal": "2651", 
         "count_2019": 0, 
-        "companyName": "Tata Power Renewable Energy", 
-        "ss_size": 0
+        "ss_size": 4399596, 
+        "url": "https://www.tatapowersolar.com/working-at-tata-power-solar/"
     }, 
     "2650": {
-        "count_intern": 0, 
+        "companyName": "Tasktop", 
+        "count_intern": 70, 
         "idVal": "2650", 
         "count_2019": 0, 
-        "companyName": "Tasktop", 
-        "ss_size": 0
+        "ss_size": 257604, 
+        "url": "https://www.google.com/search?&q=Tasktop+internships&btnI"
     }, 
     "2657": {
+        "companyName": "Tearscience", 
         "count_intern": 0, 
         "idVal": "2657", 
         "count_2019": 0, 
-        "companyName": "Tearscience", 
-        "ss_size": 0
+        "ss_size": 310716, 
+        "url": "https://tearscience.com/"
     }, 
     "2656": {
-        "count_intern": 0, 
+        "companyName": "Teamworks", 
+        "count_intern": 8, 
         "idVal": "2656", 
         "count_2019": 0, 
-        "companyName": "Teamworks", 
-        "ss_size": 0
+        "ss_size": 1146486, 
+        "url": "https://www.teamworkonline.com/"
     }, 
     "2655": {
+        "companyName": "Team Solomid", 
         "count_intern": 0, 
         "idVal": "2655", 
-        "count_2019": 0, 
-        "companyName": "Team Solomid", 
-        "ss_size": 0
+        "count_2019": 6, 
+        "ss_size": 345834, 
+        "url": "https://tsm.gg/"
     }, 
     "2654": {
-        "count_intern": 0, 
+        "companyName": "Teachertalent", 
+        "count_intern": 51, 
         "idVal": "2654", 
         "count_2019": 0, 
-        "companyName": "Teachertalent", 
-        "ss_size": 0
+        "ss_size": 239339, 
+        "url": "https://www.google.com/search?&q=Teachertalent+internships&btnI"
     }, 
     "2019": {
         "companyName": "Luxoft", 
@@ -12872,74 +13136,84 @@
         "url": "https://www.crowdfireapp.com/careers"
     }, 
     "2903": {
-        "count_intern": 0, 
+        "companyName": "Wag", 
+        "count_intern": 49, 
         "idVal": "2903", 
         "count_2019": 0, 
-        "companyName": "Wag", 
-        "ss_size": 0
+        "ss_size": 111123, 
+        "url": "https://www.google.com/search?&q=Wag+internships&btnI"
     }, 
     "2902": {
-        "count_intern": 0, 
+        "companyName": "Vydia, Inc.", 
+        "count_intern": 1, 
         "idVal": "2902", 
         "count_2019": 0, 
-        "companyName": "Vydia, Inc.", 
-        "ss_size": 0
+        "ss_size": 1125847, 
+        "url": "https://vydia.com/about/careers/"
     }, 
     "2901": {
-        "count_intern": 0, 
+        "companyName": "Vungle", 
+        "count_intern": 2, 
         "idVal": "2901", 
         "count_2019": 0, 
-        "companyName": "Vungle", 
-        "ss_size": 0
+        "ss_size": 38516, 
+        "url": "https://vungle.com/careers/"
     }, 
     "2900": {
-        "count_intern": 0, 
+        "companyName": "Vuclip", 
+        "count_intern": 71, 
         "idVal": "2900", 
         "count_2019": 0, 
-        "companyName": "Vuclip", 
-        "ss_size": 0
+        "ss_size": 119367, 
+        "url": "https://www.google.com/search?&q=Vuclip+internships&btnI"
     }, 
     "2907": {
+        "companyName": "Wandisco", 
         "count_intern": 0, 
         "idVal": "2907", 
         "count_2019": 0, 
-        "companyName": "Wandisco", 
-        "ss_size": 0
+        "ss_size": 315062, 
+        "url": "https://www.wandisco.com/careers"
     }, 
     "2906": {
-        "count_intern": 0, 
+        "companyName": "Walmart Labs", 
+        "count_intern": 17, 
         "idVal": "2906", 
         "count_2019": 0, 
-        "companyName": "Walmart Labs", 
-        "ss_size": 0
+        "ss_size": 1305690, 
+        "url": "https://careers.walmart.com/mba-graduate-internships"
     }, 
     "2905": {
-        "count_intern": 0, 
-        "idVal": "2905", 
-        "count_2019": 0, 
         "companyName": "Walmart", 
-        "ss_size": 0
+        "count_intern": 27, 
+        "idVal": "2905", 
+        "count_2019": 1, 
+        "ss_size": 181642, 
+        "url": "https://careers.walmart.com/undergraduate-internships"
     }, 
     "2904": {
-        "count_intern": 0, 
+        "companyName": "Walgreens", 
+        "count_intern": 36, 
         "idVal": "2904", 
         "count_2019": 0, 
-        "companyName": "Walgreens", 
-        "ss_size": 0
+        "ss_size": 984374, 
+        "url": "https://jobs.walgreens.com/internships"
     }, 
     "2909": {
-        "count_intern": 0, 
+        "companyName": "Warner Music Group", 
+        "count_intern": 3, 
         "idVal": "2909", 
         "count_2019": 0, 
-        "companyName": "Warner Music Group", 
-        "ss_size": 0
+        "ss_size": 1923932, 
+        "url": "https://www.wmg.com/"
     }, 
     "2908": {
-        "count_intern": 0, 
+        "companyName": "Warby Parker", 
+        "count_intern": 354, 
         "idVal": "2908", 
         "count_2019": 0, 
-        "companyName": "Warby Parker", 
-        "ss_size": 0
+        "ss_size": 255516, 
+        "url": "https://www.warbyparker.com/jobs"
     }, 
     "1658": {
         "companyName": "Fm Global", 
@@ -13054,74 +13328,84 @@
         "url": "https://careers.linkedin.com/students/Internships"
     }, 
     "2839": {
-        "count_intern": 0, 
+        "companyName": "Urbanclap", 
+        "count_intern": 85, 
         "idVal": "2839", 
         "count_2019": 0, 
-        "companyName": "Urbanclap", 
-        "ss_size": 0
+        "ss_size": 108870, 
+        "url": "https://www.google.com/search?&q=Urbanclap+internships&btnI"
     }, 
     "2838": {
-        "count_intern": 0, 
+        "companyName": "Urban Ladder", 
+        "count_intern": 94, 
         "idVal": "2838", 
         "count_2019": 0, 
-        "companyName": "Urban Ladder", 
-        "ss_size": 0
+        "ss_size": 118633, 
+        "url": "https://www.google.com/search?&q=Urban+Ladder+internships&btnI"
     }, 
     "2837": {
-        "count_intern": 0, 
+        "companyName": "Upwork", 
+        "count_intern": 71, 
         "idVal": "2837", 
         "count_2019": 0, 
-        "companyName": "Upwork", 
-        "ss_size": 0
+        "ss_size": 112737, 
+        "url": "https://www.google.com/search?&q=Upwork+internships&btnI"
     }, 
     "2836": {
-        "count_intern": 0, 
+        "companyName": "Uptake Technologies", 
+        "count_intern": 1, 
         "idVal": "2836", 
         "count_2019": 0, 
-        "companyName": "Uptake Technologies", 
-        "ss_size": 0
+        "ss_size": 1774617, 
+        "url": "https://www.uptake.com/careers"
     }, 
     "2835": {
-        "count_intern": 0, 
+        "companyName": "Upstream", 
+        "count_intern": 63, 
         "idVal": "2835", 
         "count_2019": 0, 
-        "companyName": "Upstream", 
-        "ss_size": 0
+        "ss_size": 125861, 
+        "url": "https://www.google.com/search?&q=Upstream+internships&btnI"
     }, 
     "2834": {
-        "count_intern": 0, 
+        "companyName": "Upstart", 
+        "count_intern": 1, 
         "idVal": "2834", 
         "count_2019": 0, 
-        "companyName": "Upstart", 
-        "ss_size": 0
+        "ss_size": 1437468, 
+        "url": "https://www.upstart.com/careers"
     }, 
     "2833": {
+        "companyName": "Upskill (Formerly Apx Labs)", 
         "count_intern": 0, 
         "idVal": "2833", 
         "count_2019": 0, 
-        "companyName": "Upskill (Formerly Apx Labs)", 
-        "ss_size": 0
+        "ss_size": 1150592, 
+        "url": "https://upskill.io/"
     }, 
     "2832": {
-        "count_intern": 0, 
+        "companyName": "Upserve", 
+        "count_intern": 29, 
         "idVal": "2832", 
         "count_2019": 0, 
-        "companyName": "Upserve", 
-        "ss_size": 0
+        "ss_size": 61510, 
+        "url": "https://upserve.com/company/careers/"
     }, 
     "2831": {
-        "count_intern": 0, 
-        "idVal": "2831", 
-        "count_2019": 0, 
         "companyName": "Uplift", 
-        "ss_size": 0
+        "count_intern": 1, 
+        "idVal": "2831", 
+        "count_2019": 2, 
+        "ss_size": 217113, 
+        "url": "https://jobs.uplifteducation.org/"
     }, 
     "2830": {
-        "count_intern": 0, 
-        "idVal": "2830", 
-        "count_2019": 0, 
         "companyName": "Upgrade", 
-        "ss_size": 0
+        "count_intern": 106, 
+        "idVal": "2830", 
+        "count_2019": 3, 
+        "ss_size": 121268, 
+        "url": "https://www.google.com/search?&q=Upgrade+internships&btnI"
     }, 
     "1436": {
         "companyName": "Coursera", 
@@ -13468,18 +13752,20 @@
         "url": "https://www.lockheedmartinjobs.com/college-students"
     }, 
     "2958": {
-        "count_intern": 0, 
+        "companyName": "Xl Hybrids", 
+        "count_intern": 1, 
         "idVal": "2958", 
         "count_2019": 0, 
-        "companyName": "Xl Hybrids", 
-        "ss_size": 0
+        "ss_size": 1163476, 
+        "url": "https://www.xlfleet.com/"
     }, 
     "2959": {
-        "count_intern": 0, 
+        "companyName": "Xo Group, Inc.", 
+        "count_intern": 64, 
         "idVal": "2959", 
         "count_2019": 0, 
-        "companyName": "Xo Group, Inc.", 
-        "ss_size": 0
+        "ss_size": 124018, 
+        "url": "https://www.google.com/search?&q=Xo+Group,+Inc.+internships&btnI"
     }, 
     "2488": {
         "companyName": "Scribblelive", 
@@ -13506,11 +13792,12 @@
         "url": "https://www.google.com/search?&q=Sciformix+internships&btnI"
     }, 
     "2950": {
-        "count_intern": 0, 
+        "companyName": "Xactly", 
+        "count_intern": 59, 
         "idVal": "2950", 
         "count_2019": 0, 
-        "companyName": "Xactly", 
-        "ss_size": 0
+        "ss_size": 117102, 
+        "url": "https://www.google.com/search?&q=Xactly+internships&btnI"
     }, 
     "2484": {
         "companyName": "Scientific Revenue", 
@@ -13553,11 +13840,12 @@
         "url": "https://www.sas.com/en_us/careers/students-and-graduates/internships-and-fellowships.html"
     }, 
     "2951": {
-        "count_intern": 0, 
+        "companyName": "Xaptum", 
+        "count_intern": 2, 
         "idVal": "2951", 
         "count_2019": 0, 
-        "companyName": "Xaptum", 
-        "ss_size": 0
+        "ss_size": 125965, 
+        "url": "https://www.xaptum.com/"
     }, 
     "2248": {
         "companyName": "Owlting", 
@@ -13736,214 +14024,244 @@
         "url": "https://www.meridian.org/internships/"
     }, 
     "2798": {
-        "count_intern": 0, 
-        "idVal": "2798", 
-        "count_2019": 0, 
         "companyName": "University Of Alabama", 
-        "ss_size": 0
+        "count_intern": 47, 
+        "idVal": "2798", 
+        "count_2019": 2, 
+        "ss_size": 107851, 
+        "url": "https://cis.ua.edu/internships/"
     }, 
     "2799": {
-        "count_intern": 0, 
+        "companyName": "University Of Alabama At Birmingham", 
+        "count_intern": 1, 
         "idVal": "2799", 
         "count_2019": 0, 
-        "companyName": "University Of Alabama At Birmingham", 
-        "ss_size": 0
+        "ss_size": 687376, 
+        "url": "https://www.uab.edu/humanresources/home/careers"
     }, 
     "2792": {
-        "count_intern": 0, 
+        "companyName": "United States Army", 
+        "count_intern": 37, 
         "idVal": "2792", 
         "count_2019": 0, 
-        "companyName": "United States Army", 
-        "ss_size": 0
+        "ss_size": 1345246, 
+        "url": "https://www.army.mil/internship/index.html"
     }, 
     "2793": {
-        "count_intern": 0, 
-        "idVal": "2793", 
-        "count_2019": 0, 
         "companyName": "United Technologies", 
-        "ss_size": 0
+        "count_intern": 159, 
+        "idVal": "2793", 
+        "count_2019": 2, 
+        "ss_size": 1252174, 
+        "url": "https://www.utc.com/en/Careers/career-paths/internships-co-ops"
     }, 
     "2790": {
-        "count_intern": 0, 
-        "idVal": "2790", 
-        "count_2019": 0, 
         "companyName": "United Parcel Service (Ups)", 
-        "ss_size": 0
+        "count_intern": 19, 
+        "idVal": "2790", 
+        "count_2019": 2, 
+        "ss_size": 1395916, 
+        "url": "https://www.jobs-ups.com/category/intern-coop-jobs/1187/4662/1"
     }, 
     "2791": {
-        "count_intern": 0, 
+        "companyName": "United States Air Force", 
+        "count_intern": 4, 
         "idVal": "2791", 
         "count_2019": 0, 
-        "companyName": "United States Air Force", 
-        "ss_size": 0
+        "ss_size": 1710148, 
+        "url": "https://www.afciviliancareers.com/students.php"
     }, 
     "2796": {
-        "count_intern": 0, 
+        "companyName": "Unity Technologies", 
+        "count_intern": 1, 
         "idVal": "2796", 
         "count_2019": 0, 
-        "companyName": "Unity Technologies", 
-        "ss_size": 0
+        "ss_size": 1300957, 
+        "url": "https://careers.unity.com/university"
     }, 
     "2797": {
-        "count_intern": 0, 
-        "idVal": "2797", 
-        "count_2019": 0, 
         "companyName": "Universe", 
-        "ss_size": 0
+        "count_intern": 1, 
+        "idVal": "2797", 
+        "count_2019": 1, 
+        "ss_size": 473138, 
+        "url": "https://careers.universe.com/"
     }, 
     "2794": {
-        "count_intern": 0, 
+        "companyName": "Unitedhealth Group", 
+        "count_intern": 1, 
         "idVal": "2794", 
         "count_2019": 0, 
-        "companyName": "Unitedhealth Group", 
-        "ss_size": 0
+        "ss_size": 687857, 
+        "url": "https://careers.unitedhealthgroup.com/early-careers"
     }, 
     "2795": {
-        "count_intern": 0, 
+        "companyName": "Unitedmasters", 
+        "count_intern": 53, 
         "idVal": "2795", 
         "count_2019": 0, 
-        "companyName": "Unitedmasters", 
-        "ss_size": 0
+        "ss_size": 126900, 
+        "url": "https://www.google.com/search?&q=Unitedmasters+internships&btnI"
     }, 
     "2666": {
-        "count_intern": 0, 
+        "companyName": "Tenzo", 
+        "count_intern": 23, 
         "idVal": "2666", 
         "count_2019": 0, 
-        "companyName": "Tenzo", 
-        "ss_size": 0
+        "ss_size": 138061, 
+        "url": "https://angel.co/company/tenzo/jobs/465859-startup-marketing-intern"
     }, 
     "2667": {
-        "count_intern": 0, 
+        "companyName": "Teradata", 
+        "count_intern": 4, 
         "idVal": "2667", 
         "count_2019": 0, 
-        "companyName": "Teradata", 
-        "ss_size": 0
+        "ss_size": 1277494, 
+        "url": "https://careers.teradata.com/index.gp?method=cappportal.showCategory&categoryId=13"
     }, 
     "2664": {
-        "count_intern": 0, 
+        "companyName": "Telus", 
+        "count_intern": 39, 
         "idVal": "2664", 
         "count_2019": 0, 
-        "companyName": "Telus", 
-        "ss_size": 0
+        "ss_size": 1126804, 
+        "url": "https://www.telus.com/en/about/careers/students-grads/co-op"
     }, 
     "2665": {
-        "count_intern": 0, 
+        "companyName": "Tencent Holdings", 
+        "count_intern": 8, 
         "idVal": "2665", 
         "count_2019": 0, 
-        "companyName": "Tencent Holdings", 
-        "ss_size": 0
+        "ss_size": 50066, 
+        "url": "https://careers.tencent.com/en-us/home.html"
     }, 
     "2662": {
+        "companyName": "Tellwise", 
         "count_intern": 0, 
         "idVal": "2662", 
         "count_2019": 0, 
-        "companyName": "Tellwise", 
-        "ss_size": 0
+        "ss_size": 444369, 
+        "url": "https://tellwise.com/"
     }, 
     "2663": {
-        "count_intern": 0, 
+        "companyName": "Telstra", 
+        "count_intern": 7, 
         "idVal": "2663", 
         "count_2019": 0, 
-        "companyName": "Telstra", 
-        "ss_size": 0
+        "ss_size": 661804, 
+        "url": "https://careers.telstra.com/fields-of-work/students"
     }, 
     "2660": {
+        "companyName": "Tejas Networks India", 
         "count_intern": 0, 
         "idVal": "2660", 
         "count_2019": 0, 
-        "companyName": "Tejas Networks India", 
-        "ss_size": 0
+        "ss_size": 1494221, 
+        "url": "https://www.tejasnetworks.com/careers/All"
     }, 
     "2661": {
+        "companyName": "Teladoc", 
         "count_intern": 0, 
         "idVal": "2661", 
-        "count_2019": 0, 
-        "companyName": "Teladoc", 
-        "ss_size": 0
+        "count_2019": 1, 
+        "ss_size": 1944922, 
+        "url": "https://www.teladochealth.com/en/careers/"
     }, 
     "2668": {
-        "count_intern": 0, 
+        "companyName": "Teradici", 
+        "count_intern": 3, 
         "idVal": "2668", 
         "count_2019": 0, 
-        "companyName": "Teradici", 
-        "ss_size": 0
+        "ss_size": 556318, 
+        "url": "https://www.teradici.com/careers"
     }, 
     "2669": {
-        "count_intern": 0, 
-        "idVal": "2669", 
-        "count_2019": 0, 
         "companyName": "Terex", 
-        "ss_size": 0
+        "count_intern": 5, 
+        "idVal": "2669", 
+        "count_2019": 40, 
+        "ss_size": 1086804, 
+        "url": "https://jobs.terex.com/go/Internships-and-Early-Talent/4501200/"
     }, 
     "2938": {
+        "companyName": "Woebot Labs", 
         "count_intern": 0, 
         "idVal": "2938", 
         "count_2019": 0, 
-        "companyName": "Woebot Labs", 
-        "ss_size": 0
+        "ss_size": 76546, 
+        "url": "https://woebot.io/jobs/"
     }, 
     "2939": {
-        "count_intern": 0, 
-        "idVal": "2939", 
-        "count_2019": 0, 
         "companyName": "Worcester Polytechnic Institute", 
-        "ss_size": 0
+        "count_intern": 35, 
+        "idVal": "2939", 
+        "count_2019": 1, 
+        "ss_size": 688599, 
+        "url": "https://www.wpi.edu/student-experience/career-development/internships"
     }, 
     "2936": {
-        "count_intern": 0, 
-        "idVal": "2936", 
-        "count_2019": 0, 
         "companyName": "Wish", 
-        "ss_size": 0
+        "count_intern": 99, 
+        "idVal": "2936", 
+        "count_2019": 1, 
+        "ss_size": 111952, 
+        "url": "https://www.google.com/search?&q=Wish+internships&btnI"
     }, 
     "2937": {
-        "count_intern": 0, 
+        "companyName": "Wize", 
+        "count_intern": 224, 
         "idVal": "2937", 
         "count_2019": 0, 
-        "companyName": "Wize", 
-        "ss_size": 0
+        "ss_size": 219368, 
+        "url": "https://internshipsdc.com/"
     }, 
     "2934": {
-        "count_intern": 0, 
-        "idVal": "2934", 
-        "count_2019": 0, 
         "companyName": "Wipro Technologies", 
-        "ss_size": 0
+        "count_intern": 114, 
+        "idVal": "2934", 
+        "count_2019": 3, 
+        "ss_size": 123776, 
+        "url": "https://www.google.com/search?&q=Wipro+Technologies+internships&btnI"
     }, 
     "2935": {
+        "companyName": "Wiser Solutions", 
         "count_intern": 0, 
         "idVal": "2935", 
         "count_2019": 0, 
-        "companyName": "Wiser Solutions", 
-        "ss_size": 0
+        "ss_size": 534857, 
+        "url": "https://www.wiser.com/about-wiser/careers/"
     }, 
     "2932": {
+        "companyName": "Windlogics", 
         "count_intern": 0, 
         "idVal": "2932", 
         "count_2019": 0, 
-        "companyName": "Windlogics", 
-        "ss_size": 0
+        "ss_size": 72220, 
+        "url": "https://jobs.nexteraenergy.com/go/WindLogics/2674700/"
     }, 
     "2933": {
-        "count_intern": 0, 
-        "idVal": "2933", 
-        "count_2019": 0, 
         "companyName": "Winnie", 
-        "ss_size": 0
+        "count_intern": 27, 
+        "idVal": "2933", 
+        "count_2019": 1, 
+        "ss_size": 206468, 
+        "url": "https://cchealth.org/mentalhealth/intern/"
     }, 
     "2930": {
+        "companyName": "Whitepages", 
         "count_intern": 0, 
         "idVal": "2930", 
         "count_2019": 0, 
-        "companyName": "Whitepages", 
-        "ss_size": 0
+        "ss_size": 427685, 
+        "url": "https://about.whitepages.com/careers/"
     }, 
     "2931": {
+        "companyName": "Whoop", 
         "count_intern": 0, 
         "idVal": "2931", 
-        "count_2019": 0, 
-        "companyName": "Whoop", 
-        "ss_size": 0
+        "count_2019": 1, 
+        "ss_size": 1549122, 
+        "url": "https://www.whoop.com/careers/"
     }, 
     "1645": {
         "companyName": "Fivetran", 
@@ -14026,74 +14344,84 @@
         "url": "https://www.google.com/search?&q=Flatiron+School+internships&btnI"
     }, 
     "2808": {
-        "count_intern": 0, 
+        "companyName": "University Of Hawaii", 
+        "count_intern": 41, 
         "idVal": "2808", 
         "count_2019": 0, 
-        "companyName": "University Of Hawaii", 
-        "ss_size": 0
+        "ss_size": 387672, 
+        "url": "https://career.ufl.edu/category/internships/"
     }, 
     "2809": {
-        "count_intern": 0, 
+        "companyName": "University Of Houston", 
+        "count_intern": 41, 
         "idVal": "2809", 
         "count_2019": 0, 
-        "companyName": "University Of Houston", 
-        "ss_size": 0
+        "ss_size": 387672, 
+        "url": "https://career.ufl.edu/category/internships/"
     }, 
     "2802": {
-        "count_intern": 0, 
+        "companyName": "University Of California, Berkeley", 
+        "count_intern": 13, 
         "idVal": "2802", 
         "count_2019": 0, 
-        "companyName": "University Of California, Berkeley", 
-        "ss_size": 0
+        "ss_size": 579380, 
+        "url": "https://career.berkeley.edu/Internships/Internships"
     }, 
     "2803": {
-        "count_intern": 0, 
+        "companyName": "University Of California, Irvine", 
+        "count_intern": 96, 
         "idVal": "2803", 
         "count_2019": 0, 
-        "companyName": "University Of California, Irvine", 
-        "ss_size": 0
+        "ss_size": 867927, 
+        "url": "https://career.uci.edu/undergraduate/find-an-internship/uci-internship-programs/"
     }, 
     "2800": {
-        "count_intern": 0, 
+        "companyName": "University Of Alberta", 
+        "count_intern": 30, 
         "idVal": "2800", 
         "count_2019": 0, 
-        "companyName": "University Of Alberta", 
-        "ss_size": 0
+        "ss_size": 820795, 
+        "url": "https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs"
     }, 
     "2801": {
-        "count_intern": 0, 
+        "companyName": "University Of British Columbia", 
+        "count_intern": 37, 
         "idVal": "2801", 
         "count_2019": 0, 
-        "companyName": "University Of British Columbia", 
-        "ss_size": 0
+        "ss_size": 144068, 
+        "url": "https://ir.arts.ubc.ca/undergraduates/career-resources/internships/"
     }, 
     "2806": {
-        "count_intern": 0, 
+        "companyName": "University Of Cincinnati", 
+        "count_intern": 64, 
         "idVal": "2806", 
         "count_2019": 0, 
-        "companyName": "University Of Cincinnati", 
-        "ss_size": 0
+        "ss_size": 86995, 
+        "url": "https://www.artsci.uc.edu/real-world-experience/internships.html"
     }, 
     "2807": {
-        "count_intern": 0, 
+        "companyName": "University Of Florida", 
+        "count_intern": 41, 
         "idVal": "2807", 
         "count_2019": 0, 
-        "companyName": "University Of Florida", 
-        "ss_size": 0
+        "ss_size": 387660, 
+        "url": "https://career.ufl.edu/category/internships/"
     }, 
     "2804": {
-        "count_intern": 0, 
+        "companyName": "University Of California, Los Angeles (Ucla)", 
+        "count_intern": 75, 
         "idVal": "2804", 
         "count_2019": 0, 
-        "companyName": "University Of California, Los Angeles (Ucla)", 
-        "ss_size": 0
+        "ss_size": 125314, 
+        "url": "https://www.google.com/search?&q=University+Of+California,+Los+Angeles+(Ucla)+internships&btnI"
     }, 
     "2805": {
-        "count_intern": 0, 
+        "companyName": "University Of California, San Diego", 
+        "count_intern": 17, 
         "idVal": "2805", 
         "count_2019": 0, 
-        "companyName": "University Of California, San Diego", 
-        "ss_size": 0
+        "ss_size": 147586, 
+        "url": "https://students.ucsd.edu/finances/internships/index.html"
     }, 
     "1421": {
         "companyName": "Constant Therapy", 
@@ -14800,74 +15128,84 @@
         "url": "https://www.scu.edu/academics/undergraduate-programs/internships/"
     }, 
     "2785": {
+        "companyName": "Uizard Technologies", 
         "count_intern": 0, 
         "idVal": "2785", 
         "count_2019": 0, 
-        "companyName": "Uizard Technologies", 
-        "ss_size": 0
+        "ss_size": 214751, 
+        "url": "https://uizard.io/"
     }, 
     "2784": {
-        "count_intern": 0, 
+        "companyName": "Ugo Smoothies", 
+        "count_intern": 58, 
         "idVal": "2784", 
         "count_2019": 0, 
-        "companyName": "Ugo Smoothies", 
-        "ss_size": 0
+        "ss_size": 113712, 
+        "url": "https://www.google.com/search?&q=Ugo+Smoothies+internships&btnI"
     }, 
     "2787": {
-        "count_intern": 0, 
+        "companyName": "Ultragenyx Pharmaceutical", 
+        "count_intern": 11, 
         "idVal": "2787", 
         "count_2019": 0, 
-        "companyName": "Ultragenyx Pharmaceutical", 
-        "ss_size": 0
+        "ss_size": 1105641, 
+        "url": "https://www.ultragenyx.com/careers/"
     }, 
     "2786": {
-        "count_intern": 0, 
+        "companyName": "Ultimate Software", 
+        "count_intern": 55, 
         "idVal": "2786", 
         "count_2019": 0, 
-        "companyName": "Ultimate Software", 
-        "ss_size": 0
+        "ss_size": 899752, 
+        "url": "https://www.ultimatesoftware.com/internships/"
     }, 
     "2781": {
-        "count_intern": 0, 
+        "companyName": "Ubisoft", 
+        "count_intern": 23, 
         "idVal": "2781", 
         "count_2019": 0, 
-        "companyName": "Ubisoft", 
-        "ss_size": 0
+        "ss_size": 12608, 
+        "url": "https://www.ubisoft.com/en-us/careers/grads-and-interns.aspx"
     }, 
     "2780": {
-        "count_intern": 0, 
-        "idVal": "2780", 
-        "count_2019": 0, 
         "companyName": "Uber", 
-        "ss_size": 0
+        "count_intern": 32, 
+        "idVal": "2780", 
+        "count_2019": 14, 
+        "ss_size": 532926, 
+        "url": "https://www.uber.com/us/en/careers/teams/university/"
     }, 
     "2783": {
-        "count_intern": 0, 
+        "companyName": "Udemy", 
+        "count_intern": 38, 
         "idVal": "2783", 
         "count_2019": 0, 
-        "companyName": "Udemy", 
-        "ss_size": 0
+        "ss_size": 199201, 
+        "url": "https://about.udemy.com/udemy-news/meet-udemys-2019-interns/"
     }, 
     "2782": {
-        "count_intern": 0, 
-        "idVal": "2782", 
-        "count_2019": 0, 
         "companyName": "Udacity", 
-        "ss_size": 0
+        "count_intern": 7, 
+        "idVal": "2782", 
+        "count_2019": 1, 
+        "ss_size": 242532, 
+        "url": "https://www.udacity.com/jobs#business-ops-strategy?location=all"
     }, 
     "2789": {
+        "companyName": "Unifyid", 
         "count_intern": 0, 
         "idVal": "2789", 
-        "count_2019": 0, 
-        "companyName": "Unifyid", 
-        "ss_size": 0
+        "count_2019": 1, 
+        "ss_size": 614592, 
+        "url": "https://unify.id/careers/"
     }, 
     "2788": {
-        "count_intern": 0, 
-        "idVal": "2788", 
-        "count_2019": 0, 
         "companyName": "Under Armour", 
-        "ss_size": 0
+        "count_intern": 18, 
+        "idVal": "2788", 
+        "count_2019": 3, 
+        "ss_size": 222657, 
+        "url": "https://careers.underarmour.com/students"
     }, 
     "2079": {
         "companyName": "Mimosa", 
@@ -14950,144 +15288,164 @@
         "url": "https://www.mdc.edu/main/advisement/careers/"
     }, 
     "2671": {
-        "count_intern": 0, 
+        "companyName": "Terrascend", 
+        "count_intern": 1, 
         "idVal": "2671", 
         "count_2019": 0, 
-        "companyName": "Terrascend", 
-        "ss_size": 0
+        "ss_size": 48698, 
+        "url": "https://www.linkedin.com/jobs/terrascend-jobs?orig=MDYS&locationType=Y&position=1&pageNum=0"
     }, 
     "2670": {
+        "companyName": "Terminus", 
         "count_intern": 0, 
         "idVal": "2670", 
         "count_2019": 0, 
-        "companyName": "Terminus", 
-        "ss_size": 0
+        "ss_size": 662149, 
+        "url": "https://terminus.com/company/careers/"
     }, 
     "2673": {
-        "count_intern": 0, 
+        "companyName": "Tesla", 
+        "count_intern": 13, 
         "idVal": "2673", 
         "count_2019": 0, 
-        "companyName": "Tesla", 
-        "ss_size": 0
+        "ss_size": 1206256, 
+        "url": "https://www.tesla.com/careers/students"
     }, 
     "2672": {
-        "count_intern": 0, 
+        "companyName": "Tesco", 
+        "count_intern": 94, 
         "idVal": "2672", 
         "count_2019": 0, 
-        "companyName": "Tesco", 
-        "ss_size": 0
+        "ss_size": 1188691, 
+        "url": "https://www.tesco-programmes.com/internships/"
     }, 
     "2675": {
-        "count_intern": 0, 
+        "companyName": "Testin", 
+        "count_intern": 97, 
         "idVal": "2675", 
         "count_2019": 0, 
-        "companyName": "Testin", 
-        "ss_size": 0
+        "ss_size": 120595, 
+        "url": "https://www.google.com/search?&q=Testin+internships&btnI"
     }, 
     "2674": {
+        "companyName": "Testbook.Com", 
         "count_intern": 0, 
         "idVal": "2674", 
         "count_2019": 0, 
-        "companyName": "Testbook.Com", 
-        "ss_size": 0
+        "ss_size": 70396, 
+        "url": "https://testbook.com/careers"
     }, 
     "2677": {
-        "count_intern": 0, 
+        "companyName": "Textnow", 
+        "count_intern": 9, 
         "idVal": "2677", 
         "count_2019": 0, 
-        "companyName": "Textnow", 
-        "ss_size": 0
+        "ss_size": 42771, 
+        "url": "https://about.textnow.com/careers/"
     }, 
     "2676": {
-        "count_intern": 0, 
+        "companyName": "Texas A&M University", 
+        "count_intern": 1, 
         "idVal": "2676", 
         "count_2019": 0, 
-        "companyName": "Texas A&M University", 
-        "ss_size": 0
+        "ss_size": 1879302, 
+        "url": "https://www.tamu.edu/"
     }, 
     "2679": {
-        "count_intern": 0, 
+        "companyName": "The Agency For Science, Technology And Research", 
+        "count_intern": 1, 
         "idVal": "2679", 
         "count_2019": 0, 
-        "companyName": "The Agency For Science, Technology And Research", 
-        "ss_size": 0
+        "ss_size": 5290, 
+        "url": "http://eap.ucop.edu/OurPrograms/singapore/Pages/science_engineering_internship.aspx"
     }, 
     "2678": {
+        "companyName": "Thalmic Labs", 
         "count_intern": 0, 
         "idVal": "2678", 
         "count_2019": 0, 
-        "companyName": "Thalmic Labs", 
-        "ss_size": 0
+        "ss_size": 1928517, 
+        "url": "https://www.bynorth.com/careers"
     }, 
     "2929": {
-        "count_intern": 0, 
+        "companyName": "Whatsapp", 
+        "count_intern": 4, 
         "idVal": "2929", 
         "count_2019": 0, 
-        "companyName": "Whatsapp", 
-        "ss_size": 0
+        "ss_size": 965194, 
+        "url": "https://www.whatsapp.com/join/"
     }, 
     "2928": {
-        "count_intern": 0, 
+        "companyName": "Western Digital", 
+        "count_intern": 2, 
         "idVal": "2928", 
         "count_2019": 0, 
-        "companyName": "Western Digital", 
-        "ss_size": 0
+        "ss_size": 1274410, 
+        "url": "https://jobs.westerndigital.com/university"
     }, 
     "2921": {
-        "count_intern": 0, 
+        "companyName": "Weibo", 
+        "count_intern": 65, 
         "idVal": "2921", 
         "count_2019": 0, 
-        "companyName": "Weibo", 
-        "ss_size": 0
+        "ss_size": 117329, 
+        "url": "https://www.google.com/search?&q=Weibo+internships&btnI"
     }, 
     "2920": {
-        "count_intern": 0, 
+        "companyName": "Wefunder", 
+        "count_intern": 6, 
         "idVal": "2920", 
         "count_2019": 0, 
-        "companyName": "Wefunder", 
-        "ss_size": 0
+        "ss_size": 85308, 
+        "url": "https://wefunder.com/jobs/internships"
     }, 
     "2923": {
-        "count_intern": 0, 
+        "companyName": "Welab", 
+        "count_intern": 62, 
         "idVal": "2923", 
         "count_2019": 0, 
-        "companyName": "Welab", 
-        "ss_size": 0
+        "ss_size": 108401, 
+        "url": "https://www.google.com/search?&q=Welab+internships&btnI"
     }, 
     "2922": {
-        "count_intern": 0, 
-        "idVal": "2922", 
-        "count_2019": 0, 
         "companyName": "Weight Watchers", 
-        "ss_size": 0
+        "count_intern": 12, 
+        "idVal": "2922", 
+        "count_2019": 4, 
+        "ss_size": 1851700, 
+        "url": "https://www.weightwatchers.com/us/corporate-careers"
     }, 
     "2925": {
-        "count_intern": 0, 
+        "companyName": "Wepay", 
+        "count_intern": 43, 
         "idVal": "2925", 
         "count_2019": 0, 
-        "companyName": "Wepay", 
-        "ss_size": 0
+        "ss_size": 115208, 
+        "url": "https://go.wepay.com/careers/"
     }, 
     "2924": {
+        "companyName": "Wellopp", 
         "count_intern": 0, 
         "idVal": "2924", 
         "count_2019": 0, 
-        "companyName": "Wellopp", 
-        "ss_size": 0
+        "ss_size": 93947, 
+        "url": "https://www.linkedin.com/company/wellopp"
     }, 
     "2927": {
-        "count_intern": 0, 
+        "companyName": "Wespire", 
+        "count_intern": 54, 
         "idVal": "2927", 
         "count_2019": 0, 
-        "companyName": "Wespire", 
-        "ss_size": 0
+        "ss_size": 110971, 
+        "url": "https://www.google.com/search?&q=Wespire+internships&btnI"
     }, 
     "2926": {
+        "companyName": "Weride.Ai", 
         "count_intern": 0, 
         "idVal": "2926", 
         "count_2019": 0, 
-        "companyName": "Weride.Ai", 
-        "ss_size": 0
+        "ss_size": 702464, 
+        "url": "https://www.weride.ai/"
     }, 
     "1630": {
         "companyName": "Fidelity Management And Research Company", 
@@ -15178,74 +15536,84 @@
         "url": "https://www.google.com/search?&q=Little+Labs+internships&btnI"
     }, 
     "2815": {
-        "count_intern": 0, 
+        "companyName": "University Of New Mexico", 
+        "count_intern": 13, 
         "idVal": "2815", 
         "count_2019": 0, 
-        "companyName": "University Of New Mexico", 
-        "ss_size": 0
+        "ss_size": 405737, 
+        "url": "https://career.unm.edu/jobs-internships/where-are-internships/internships.html"
     }, 
     "2814": {
-        "count_intern": 0, 
+        "companyName": "University Of Missouri, Columbia", 
+        "count_intern": 39, 
         "idVal": "2814", 
         "count_2019": 0, 
-        "companyName": "University Of Missouri, Columbia", 
-        "ss_size": 0
+        "ss_size": 113736, 
+        "url": "https://career.missouri.edu/jobs-and-internships/internships/"
     }, 
     "2817": {
-        "count_intern": 0, 
+        "companyName": "University Of North Texas", 
+        "count_intern": 5, 
         "idVal": "2817", 
         "count_2019": 0, 
-        "companyName": "University Of North Texas", 
-        "ss_size": 0
+        "ss_size": 128645, 
+        "url": "https://www.unt.edu/pais/insert/usemp.htm"
     }, 
     "2816": {
-        "count_intern": 0, 
-        "idVal": "2816", 
-        "count_2019": 0, 
         "companyName": "University Of North Carolina At Chapel Hill", 
-        "ss_size": 0
+        "count_intern": 100, 
+        "idVal": "2816", 
+        "count_2019": 1, 
+        "ss_size": 112013, 
+        "url": "https://careers.unc.edu/students/internship-search"
     }, 
     "2811": {
-        "count_intern": 0, 
+        "companyName": "University Of Illinois At Urbana-Champaign (Uiuc)", 
+        "count_intern": 39, 
         "idVal": "2811", 
         "count_2019": 0, 
-        "companyName": "University Of Illinois At Urbana-Champaign (Uiuc)", 
-        "ss_size": 0
+        "ss_size": 762800, 
+        "url": "https://www.careercenter.illinois.edu/instructable/internships"
     }, 
     "2810": {
-        "count_intern": 0, 
+        "companyName": "University Of Illinois At Chicago", 
+        "count_intern": 27, 
         "idVal": "2810", 
         "count_2019": 0, 
-        "companyName": "University Of Illinois At Chicago", 
-        "ss_size": 0
+        "ss_size": 425306, 
+        "url": "https://careerservices.uic.edu/students/internships/"
     }, 
     "2813": {
-        "count_intern": 0, 
+        "companyName": "University Of Michigan", 
+        "count_intern": 33, 
         "idVal": "2813", 
         "count_2019": 0, 
-        "companyName": "University Of Michigan", 
-        "ss_size": 0
+        "ss_size": 300945, 
+        "url": "https://careercenter.umich.edu/content/find-job-or-internship"
     }, 
     "2812": {
-        "count_intern": 0, 
-        "idVal": "2812", 
-        "count_2019": 0, 
         "companyName": "University Of Maryland", 
-        "ss_size": 0
+        "count_intern": 31, 
+        "idVal": "2812", 
+        "count_2019": 1, 
+        "ss_size": 717725, 
+        "url": "https://careers.umd.edu/students/gain-experience/internships"
     }, 
     "2819": {
-        "count_intern": 0, 
+        "companyName": "University Of Oxford", 
+        "count_intern": 69, 
         "idVal": "2819", 
         "count_2019": 0, 
-        "companyName": "University Of Oxford", 
-        "ss_size": 0
+        "ss_size": 489166, 
+        "url": "https://www.careers.ox.ac.uk/about-our-internships/"
     }, 
     "2818": {
-        "count_intern": 0, 
+        "companyName": "University Of Notre Dame", 
+        "count_intern": 17, 
         "idVal": "2818", 
         "count_2019": 0, 
-        "companyName": "University Of Notre Dame", 
-        "ss_size": 0
+        "ss_size": 211566, 
+        "url": "https://undergradcareers.nd.edu/opportunities/job-and-internship-database/"
     }, 
     "1188": {
         "companyName": "Benchling", 
@@ -15664,12 +16032,12 @@
         "url": "https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html"
     }, 
     "1360": {
-        "ss_size": 1729789, 
-        "url": "https://circle.careers/", 
         "companyName": "Circle", 
         "count_intern": 2, 
         "idVal": "1360", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 1729789, 
+        "url": "https://circle.careers/"
     }, 
     "1361": {
         "companyName": "Circleci", 
@@ -15680,19 +16048,19 @@
         "url": "https://circleci.com/careers/"
     }, 
     "1368": {
-        "ss_size": 73113, 
-        "url": "https://citrine.io/media-post/meet-our-summer-interns/", 
         "companyName": "Citrine Informatics", 
         "count_intern": 12, 
         "idVal": "1368", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 73113, 
+        "url": "https://citrine.io/media-post/meet-our-summer-interns/"
     }, 
     "1369": {
-        "ss_size": 1115863, 
-        "url": "https://www.citrix.com/careers/university-recruiting/", 
         "companyName": "Citrix Systems", 
         "count_intern": 2, 
         "idVal": "1369", 
-        "count_2019": 0
+        "count_2019": 0, 
+        "ss_size": 1115863, 
+        "url": "https://www.citrix.com/careers/university-recruiting/"
     }
 }
