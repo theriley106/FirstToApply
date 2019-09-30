@@ -160,7 +160,7 @@ def click_first_link():
 
 def update_company(companyId):
 	db = json.load(open("db.json"))
-	allLines = open("filename.md").read().split("\n")
+	allLines = open("README.md").read().split("\n")
 	change = False
 	for i, val in enumerate(allLines):
 		if len(val) > 0:
