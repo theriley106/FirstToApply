@@ -217,7 +217,6 @@ def update(companyCode):
 
 if __name__ == '__main__':
 	companies = sys.argv[1:]
-	finished = [x.strip() for x in open("finished.txt").read().split("\n")]
 	if "--all" in str(companies).lower():
 		companies = sorted(DB.keys())
 	if len(companies) == 0:
