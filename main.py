@@ -113,7 +113,7 @@ def yext():
 	#print str(page).count("2019")
 	return str(page).count("2020") > 0
 
-
+"""
 COMPANY_LIST = []
 
 COMPANY_LIST.append({'company': 'airbnb', 'function': airbnb})
@@ -126,7 +126,7 @@ COMPANY_LIST.append({'company': 'nextdoor', 'function': nextdoor})
 COMPANY_LIST.append({'company': 'stripe', 'function': stripe})
 COMPANY_LIST.append({'company': 'uber', 'function': uber})
 COMPANY_LIST.append({'company': 'yext', 'function': yext})
-
+"""
 
 
 def check_new(url, count1, count2, company):
