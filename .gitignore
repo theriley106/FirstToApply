@@ -105,3 +105,4 @@ venv.bak/
 keys.py
 *gecko*
 .DS_Store
+temp
